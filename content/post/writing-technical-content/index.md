@@ -1,6 +1,6 @@
 ---
-title: Writing technical content in Markdown
-date: 2019-07-12
+title: Creating content in Markdown
+date: 2023-04-10
 math: true
 image:
   placement: 2

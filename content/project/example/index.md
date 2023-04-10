@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Using jQuery Selectors in Whatfix rules
+summary: Step-by-step instructions for identifying jQuery selectors and applying them to Whatfix display rules.
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - L&D
+date: '2023-04-10T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

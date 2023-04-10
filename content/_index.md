@@ -70,27 +70,28 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Senior Technical Writer
+          company: Consensus Cloud Solutions, Inc.
           company_url: ''
           company_logo: org-gc
           location: California
-          date_start: '2021-01-01'
+          date_start: '2022-03-21'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Spearheading collaborative and sustainable digital adoption CLM practices while designing and implementing expanded microcontent across multiple brands.
+              * Creating instructional guides for digital adoption microcontent creators on WCAG compliance and the use of CSS, jQuery, and window variables for content segmentation.
+              * Furthering a "Top 5" company goal by conducting market research on API developer community portals to inform future product development.
+              * Reduced cancellations by 16% by designing, validating, implementing, and maintaining customer-facing digital adoption microcontent to supplement existing UI.
+              * Interviewed internal stakeholders to create process chart of existing payment processing workflow to enable implementation of new fraud prevention tools.
+        - title: Editor (academic)
+          company: University of Michigan & University of California-Irvine
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Michigan & California
+          date_start: '2020-02-01'
+          date_end: ''
+          description: |2-
+              * Conducting developmental, line, and copy editing for researcher-turned-professor's dissertation, presentations, academic articles, job market material, and grant proposals (one awarded $2.5 million and another likely to be awarded in 2023). 
     design:
       columns: '2'
   - block: accomplishments
@@ -176,10 +177,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Learning & Development
+          tag: L&D
+        - name: Technical Writing
+          tag: TechWriting
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
