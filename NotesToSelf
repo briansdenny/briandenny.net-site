@@ -1,0 +1,12 @@
+Bought domain via namecheap.com on 4/09/23
+Downloaded Hugo Academic template from Wowchemy.com (demo page https://academic-demo.netlify.app/)
+Following tutorials at https://wowchemy.com/docs/getting-started/ on 4/10/23
+I can only access my live content here https://main--brian-denny.netlify.app/
+
+But I want to see it live on my site so I can edit as needed (BUT MAYBE THAT ISN'T A GOOD IDEA AND I SHOULD ONLY ADD CONTENT TO MY SITE WHEN IT'S COMPLETE)
+
+Getting content to my domain requires changing DNS names. I changed DNS names in namecheap.com on 4/10/23 using instructions here https://www.namecheap.com/support/knowledgebase/article.aspx/767/10/how-to-change-dns-for-a-domain/
+
+PROCESS FOR UPDATING CONTENT:
+I edit content in Visual Studio Code.
+I then commit the changes via GitHub Desktop.
