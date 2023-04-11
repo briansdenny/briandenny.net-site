@@ -7,7 +7,7 @@ image:
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.
+Writers and editors working in different fields and on different projects often utilize dramatically different technologies and tools. For instance, this entire website was created using Markdown, a plain text formatting syntax that converts easy-to-read source material into web-ready HTML. 
 
 **Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
 
