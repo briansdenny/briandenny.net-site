@@ -211,12 +211,12 @@ sections:
     #content:
       #title: Recent Publications (remove this?)
       #text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+        #{{% callout note %}}
+        #Quickly discover relevant content by [filtering publications](./publication/).
+        #{{% /callout %}}
       #filters:
         #folders:
-          - publication
+          - #publication
         #exclude_featured: true
     #design:
       #columns: '2'
@@ -224,10 +224,10 @@ sections:
   - #block: collection
     #id: talks
     #content:
-      #title: Recent & Upcoming Talks (remove this?)
+      #title: Recent & Upcoming Talks (remove this? I made this note well after the # were added to 'remove' the section)
       #filters:
         #folders:
-          - event
+          - #event
     #design:
       #columns: '2'
       #view: compact
