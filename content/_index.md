@@ -55,7 +55,7 @@ sections:
         - title: Senior Technical Writer
           company: Consensus Cloud Solutions, Inc.
           company_url: ''
-          company_logo: org-gc
+          company_logo:
           location: California
           date_start: '2022-03-21'
           date_end: ''
@@ -68,7 +68,7 @@ sections:
         - title: Editor (academic)
           company: University of Michigan & University of California-Irvine
           company_url: ''
-          company_logo: org-x
+          company_logo:
           location: Michigan & California
           date_start: '2020-02-01'
           date_end: ''
