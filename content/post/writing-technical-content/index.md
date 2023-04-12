@@ -2,9 +2,9 @@
 title: Creating content in Markdown
 date: 2023-04-10
 math: true
-#image:
-  #placement: 2
-  #aption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+image:
+  placement: 2
+  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
 Writers and editors working in different fields and on different projects often utilize dramatically different technologies and tools. For instance, this entire website was created using Markdown, a plain text formatting syntax that converts easy-to-read source material into web-ready HTML. 
