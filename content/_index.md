@@ -16,14 +16,30 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
+        - name: Process-Mapping
+          description:
+          icon: diagram-project
+          icon_pack: fas
         - name: Statistics
-          description: 100%
+          description:
           icon: chart-line
           icon_pack: fas
+        - name: Data Collection & Refinement
+          description:
+          icon: database
+          icon_pack: fas
+        - name: Qualitative Research
+          description:
+          icon: magnifying-glass
+          icon_pack: fas
+        - name: Teaching & Learning
+          description:
+          icon: chalkboard-user
+          icon_pack: fas
+        - name: Writing & Editing
+          description:
+          icon: marker
+          icon_pack: fas  
         - name: Photography
           description: 10%
           icon: camera-retro
@@ -167,7 +183,7 @@ sections:
       columns: '1'
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
