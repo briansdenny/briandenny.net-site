@@ -12,3 +12,5 @@ Edit content in Visual Studio Code.
 Commit the changes via GitHub Desktop. 
 Push changes via GitHub Desktop.
 If changes don't reflect on site or you're changing code that isn't visible content, check Netlify deploys to ensure content published.
+
+CHANGES TO MAKE:
