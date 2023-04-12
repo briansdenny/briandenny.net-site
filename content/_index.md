@@ -16,11 +16,11 @@ sections:
     content:
       title: Skills
       items:
-        - name: Process-Mapping
+        - name: Workflow & Process Mapping
           description:
           icon: diagram-project
           icon_pack: fas
-        - name: Statistics
+        - name: Statistics & Analysis
           description:
           icon: chart-line
           icon_pack: fas
@@ -28,7 +28,7 @@ sections:
           description:
           icon: database
           icon_pack: fas
-        - name: Qualitative Research
+        - name: Quantitative & Qualitative Research
           description:
           icon: magnifying-glass
           icon_pack: fas
@@ -39,11 +39,7 @@ sections:
         - name: Writing & Editing
           description:
           icon: marker
-          icon_pack: fas  
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+          icon_pack: fas 
   - block: experience
     content:
       title: Experience
