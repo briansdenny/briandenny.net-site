@@ -24,7 +24,7 @@ organizations:
     url: https://www.consensus.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My short bio goes here.
+bio: Brian love learning and teaching as much as he loves writing and editing (and reading)!
 
 # Interests to show in About widget
 interests:
@@ -35,15 +35,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MA in Political Science
+      institution: University of California-Irvine
+      year: 2016
+    - course: BA in International Affairs
+      institution: Florida State University
+      year: 2013
+    - course: BSc in Political Science
+      institution: Florida State University
+      year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -58,14 +58,14 @@ social:
       header: true
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/briansdenny
     label: Check out my github
     display:
       header: true
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
-    label: View my LinkedIn profile
+    label: View my LinkedIn
     display:
       header: true
   # Link to a PDF of your resume/CV.
@@ -73,7 +73,7 @@ social:
   # and uncomment the lines below.
   - icon: file
     icon_pack: fas
-    icon-size: sm
+    icon-size: xs
     link: uploads/resume.pdf
     label: Download my resume
     display:
@@ -83,8 +83,8 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
-Brian Denny is a Senior Technical Writer at Consensus Cloud Solutions, Inc. and an Editor at the University of Michigan. In addition to technical writing and academic editing, his interests and experience include creating and editing adult-learner curriculum, classroom teaching, coaching (1-on-1 or group), data collection and statistical analysis, qualitative research, and publishing. 
+Brian Denny is a Senior Technical Writer at Consensus Cloud Solutions, Inc. and an Editor at the University of Michigan. His professional experience includes creating and editing adult-learner curriculum, classroom teaching, coaching (1-on-1 or group), data collection and statistical analysis, qualitative research, and publishing. 
 {style="text-align: justify;"}
