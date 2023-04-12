@@ -56,8 +56,6 @@ sections:
           company: Consensus Cloud Solutions, Inc.
           company_url: ''
           company_logo: 
-          icon: fax
-          icon_pack: fas
           location: California
           date_start: '2022-03-21'
           date_end: ''
