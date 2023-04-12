@@ -24,7 +24,7 @@ organizations:
     url: https://www.consensus.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Brian love learning and teaching as much as he loves writing and editing (and reading)!
+bio: Brian loves learning and teaching as much as he loves writing and editing (and reading)!
 
 # Interests to show in About widget
 interests:
@@ -86,5 +86,5 @@ email: ''
 highlight_name: false
 ---
 
-Brian Denny is an Editor at the University of Michigan and a Senior Technical Writer at Consensus Cloud Solutions. His professional experience includes ideating, implementing, and analyzing digital adoption microcontent; ensuring 508-compliance for digital content; creating and documenting workflows; designing and editing adult-learner curriculum; classroom teaching; coaching (1-on-1 or group); data collection and statistical analysis; qualitative research; and publishing. 
+Brian Denny is an Editor at the University of Michigan and a Senior Technical Writer at Consensus Cloud Solutions. His professional experience includes ideating, implementing, and analyzing digital adoption microcontent; ensuring 508-compliance for digital content; creating and documenting workflows; data collection and statistical analysis; qualitative research; spearheading print publication of a university academic journal and K-12 yearbooks; designing and editing adult-learner curriculum; coaching and training (1-on-1 or group); and traditional classroom teaching.
 {style="text-align: justify;"}
