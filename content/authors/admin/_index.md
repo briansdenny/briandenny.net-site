@@ -53,32 +53,26 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-    label: Follow me on Twitter
+    label: Send me a message
     display:
       header: true
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-    label: Follow me on Twitter
+    label: Check out my github
     display:
       header: true
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
-    label: Follow me on Twitter
+    label: View my LinkedIn profile
     display:
       header: true
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
+  - icon: file-user
+    icon_pack: fab
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
