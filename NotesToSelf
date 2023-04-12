@@ -7,7 +7,39 @@ But I want to see it live on my site so I can edit as needed (BUT MAYBE THAT ISN
 
 Getting content to my domain requires changing DNS names. I changed DNS names in namecheap.com on 4/10/23 using instructions here https://www.namecheap.com/support/knowledgebase/article.aspx/767/10/how-to-change-dns-for-a-domain/
 
+SETTING UP SITE:
+Bought name/email from namecheap
+Downloaded Academic from Wowchemy
+Downloaded VSCode, GitHub desktop
+
+
 PROCESS FOR UPDATING CONTENT:
 Edit content in Visual Studio Code.
 Commit the changes via GitHub Desktop. 
 Push changes via GitHub Desktop.
+
+LIST OF POSSIBLE ICONS (fontawesome.com, "Classic" and "Free"):
+https://fontawesome.com/icons/arrow-trend-down?f=classic&s=solid
+https://fontawesome.com/icons/arrow-trend-up?f=classic&s=solid
+https://fontawesome.com/icons/asterisk?f=classic&s=solid
+https://fontawesome.com/icons/award?f=classic&s=solid
+https://fontawesome.com/icons/battery-full?f=classic&s=solid
+https://fontawesome.com/icons/bolt?f=classic&s=solid
+https://fontawesome.com/icons/bolt-lightning?f=classic&s=solid
+https://fontawesome.com/icons/book?f=classic&s=solid
+https://fontawesome.com/icons/book-bookmark?f=classic&s=solid
+https://fontawesome.com/icons/book-open?f=classic&s=solid
+https://fontawesome.com/icons/book-open-reader?f=classic&s=solid
+https://fontawesome.com/icons/bookmark?f=classic&s=solid
+https://fontawesome.com/icons/box-archive?f=classic&s=solid
+https://fontawesome.com/icons/box-open?f=classic&s=solid
+https://fontawesome.com/icons/brain?f=classic&s=solid
+https://fontawesome.com/icons/briefcase?f=classic&s=solid
+https://fontawesome.com/icons/bullhorn?f=classic&s=solid
+https://fontawesome.com/icons/burst?f=classic&s=solid
+https://fontawesome.com/icons/calculator?f=classic&s=solid
+https://fontawesome.com/icons/certificate?f=classic&s=solid
+
+
+LIST OF POSSIBLE ICONS (fontawesome.com, "Brands")
+https://fontawesome.com/icons/html5?f=brands&s=solid
