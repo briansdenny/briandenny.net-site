@@ -207,7 +207,7 @@ sections:
       columns: '2'
       view: card
   #4.12.23 BD ... several blocks from original template turned to comments with # to effectively remove from website
-  #block: collection
+  - #block: collection
     #content:
       #title: Recent Publications (remove this?)
       #text: |-
@@ -221,17 +221,17 @@ sections:
     #design:
       #columns: '2'
       #view: citation
-  #block: collection
+  - #block: collection
     #id: talks
     #content:
-      #title: Recent & Upcoming Talks (remove this? I made this note well after the # were added to 'remove' the section. Then I removed the little white dashes before the block)
+      #title: Recent & Upcoming Talks (remove this? I made this note well after the # were added to 'remove' the section)
       #filters:
         #folders:
           - #event
     #design:
       #columns: '2'
       #view: compact
-  #block: tag_cloud
+  - #block: tag_cloud
     #content:
       #title: Popular Topics (remove this?)
     #design:
