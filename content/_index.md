@@ -60,7 +60,7 @@ sections:
           icon_pack: fas
   - block: experience
     content:
-      title: Experience*
+      title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
