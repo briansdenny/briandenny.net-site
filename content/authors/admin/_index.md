@@ -18,8 +18,6 @@ role: Writer, Editor, Researcher, Educator, & Coach
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Consensus Cloud Solutions
-    url: https://www.consensus.com/
   - name: University of Michigan
     url: https://www.umich.edu/
 
@@ -53,15 +51,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - #icon: twitter
-    #icon_pack: fab
-    #link: https://twitter.com/GeorgeCushen
-    #label: Follow me on Twitter
-    #display:
-      #header: true
-  - #icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    #icon_pack: fas
-    #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#icon: twitter
+#icon_pack: fab
+#link: https://twitter.com/GeorgeCushen
+#label: Follow me on Twitter
+#display:
+#header: true
+#icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+#icon_pack: fas
+#link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/briansdenny
