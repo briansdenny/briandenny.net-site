@@ -14,14 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Writer, Editor, Researcher, Educator, & Coach
+role: Writer, Editor, Researcher, Educator, Coach
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Consensus Cloud Solutions
-    url: https://www.consensus.com/
-  - name: University of Michigan
-    url: https://www.umich.edu/
+  - name: Organization/Affilitation name
+    url: https://www.google.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My short bio goes here.
@@ -35,15 +33,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MA in Political Science
-      institution: University of California, Irvine
-      year: 2016
-    - course: BA in International Affairs
-      institution: Florida State University
-      year: 2013
-    - course: BSc in Political Science with Honors (Minor':' Mandarin Chinese)
-      institution: Florida State University
-      year: 2013
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -53,21 +51,21 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - #icon: twitter
-    #icon_pack: fab
-    #link: https://twitter.com/GeorgeCushen
-    #label: Follow me on Twitter
-    #display:
-      #header: true
-  - #icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    #icon_pack: fas
-    #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+    label: Follow me on Twitter
+    display:
+      header: true
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/briansdenny
+    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/brian-denny-33b67a3b
+    link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
