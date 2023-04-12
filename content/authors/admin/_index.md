@@ -74,7 +74,8 @@ social:
   - icon: file
     icon_pack: fas
     icon-size: sm
-    link: uploads/resume.pdflabel: View my LinkedIn profile
+    link: uploads/resume.pdf
+    label: Download my resume
     display:
       header: true
 
