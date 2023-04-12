@@ -84,16 +84,12 @@ sections:
               * Reduced cancellations by 16% by designing, validating, implementing, and maintaining customer-facing digital adoption microcontent to supplement existing UI.
               * Interviewed internal stakeholders to create process chart of existing payment processing workflow to enable implementation of new fraud prevention tools.
         - title: Editor (academic)
-          company: University of Michigan
-          location: Michigan
-          date_start: '2022-10-06'
+          company: University of Michigan & University of California-Irvine
+          location: Michigan & California
+          date_start: '2020-02-01'
           date_end: ''
           company_url: ''
           #company_logo: org-x
-          company:  University of California, Irvine
-          location: California
-          date_start: '2020-02-01'
-          date_end: '2020-07-01'
           description: |2-
               * Conducting developmental, line, and copy editing for researcher-turned-professor's dissertation, presentations, academic articles, job market material, and grant proposals (one awarded $2.5 million and another likely to be awarded in 2023). 
     design:
@@ -210,35 +206,36 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: collection
-    content:
-      title: Recent Publications (remove this?)
-      text: |-
+  #4.12.23 BD ... several blocks from original template turned to comments with # to effectively remove from website
+  - #block: collection
+    #content:
+      #title: Recent Publications (remove this?)
+      #text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
-      filters:
-        folders:
+      #filters:
+        #folders:
           - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks (remove this?)
-      filters:
-        folders:
+        #exclude_featured: true
+    #design:
+      #columns: '2'
+      #view: citation
+  - #block: collection
+    #id: talks
+    #content:
+      #title: Recent & Upcoming Talks (remove this?)
+      #filters:
+        #folders:
           - event
-    design:
-      columns: '2'
-      view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics (remove this?)
-    design:
-      columns: '2'
+    #design:
+      #columns: '2'
+      #view: compact
+  - #block: tag_cloud
+    #content:
+      #title: Popular Topics (remove this?)
+    #design:
+      #columns: '2'
   - block: contact
     id: contact
     content:
