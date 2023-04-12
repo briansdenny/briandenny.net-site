@@ -73,7 +73,10 @@ social:
   # and uncomment the lines below.
   - icon: file
     icon_pack: fas
-    link: uploads/resume.pdf
+    icon-size: sm
+    link: uploads/resume.pdflabel: View my LinkedIn profile
+    display:
+      header: true
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
