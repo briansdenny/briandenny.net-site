@@ -73,7 +73,7 @@ sections:
         - title: Senior Technical Writer
           company: Consensus Cloud Solutions, Inc.
           company_url: ''
-          #company_logo: org-gc
+          company_logo: org-gc
           location: California
           date_start: '2022-03-21'
           date_end: ''
@@ -84,16 +84,12 @@ sections:
               * Reduced cancellations by 16% by designing, validating, implementing, and maintaining customer-facing digital adoption microcontent to supplement existing UI.
               * Interviewed internal stakeholders to create process chart of existing payment processing workflow to enable implementation of new fraud prevention tools.
         - title: Editor (academic)
-          company: University of Michigan
-          location: Michigan
-          date_start: '2022-10-06'
-          date_end: ''
+          company: University of Michigan & University of California-Irvine
           company_url: ''
-          #company_logo: org-x
-          company:  University of California, Irvine
-          location: California
+          company_logo: org-x
+          location: Michigan & California
           date_start: '2020-02-01'
-          date_end: '2020-07-01'
+          date_end: ''
           description: |2-
               * Conducting developmental, line, and copy editing for researcher-turned-professor's dissertation, presentations, academic articles, job market material, and grant proposals (one awarded $2.5 million and another likely to be awarded in 2023). 
     design:
