@@ -18,8 +18,10 @@ role: Writer, Editor, Researcher, Educator, Coach
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Organization/Affilitation name
-    url: https://www.google.edu/
+  - name: University of Michigan
+    url: https://www.umich.edu/]
+  - name: Consensus Cloud Solutions, Inc.
+    url: https://www.consensus.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My short bio goes here.
