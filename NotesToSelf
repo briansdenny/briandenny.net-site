@@ -55,3 +55,10 @@ Notes from the 'Writing with Markdown' section:
 
   ### Tables
     You can also convert a spreadsheet into a Markdown table. Simply save the spreadsheet as a CSV file in your page's folder and then render it by adding the _Table_ shortcode to your page:
+
+From 'Getting Started' section:
+  (this code didn't seem to render properly)
+    ```python
+    import libr
+    print('hello')
+    ```
