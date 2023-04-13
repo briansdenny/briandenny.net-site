@@ -36,9 +36,9 @@ jQuery selectors are used to select HTML elements on a webpage based on the elem
 jQuery('[<span style="color:red">attribute</span>="<span style="color:blue">content</span>"]') 
 
 ```markdown
-{{%/* callout note */%}}
+{{% callout note %}}
 Because HTML and the jQuery function rely on a nested coding language syntax, typing your queries in a nested fashion can help avoid mistakes. Work from the outside in.
-{{%/* /callout */%}}
+{{% /callout %}}
 ```
 
 jQuery('')  
