@@ -33,8 +33,14 @@ slides: example
 jQuery selectors are used to select HTML elements on a webpage based on the element attributes (e.g. id, class, attribute, type, value, etc.) specified in the jQuery selector. This functionality allows web developers to identify and interact with HTML elements in a variety of ways. For instance, digital adoption platforms like Whatfix, Userpilot, and WalkMe allow  content developers to configure display rules for microcontent based on jQuery selectors. In my role as a Technical Writer at Consensus Cloud Solutions, I spearhead the company's work with Whatfix by ideating, designing, writing, configuring, testing, and analyzing microcontent that sits on top of several of our existing web applications. While teaching myself how to use Whatfix, I also learned the basics of jQuery selectors, and this has allowed me to create more refined, customized, and adaptive Whatfix microcontent. I created the following set of step-by-step instructions as an easy reference that allows anyone to identify jQuery selectors for use in Whatfix display rules.
 
 
+jQuery('[<span style="color:red">attribute</span>="<span style="color:blue">content</span>"]') 
 
-   ```python
-    $('[attribute="content"]')
-    ```
+```markdown
+{{%/* callout note */%}}
+Because HTML and the jQuery function rely on a nested coding language syntax, typing your queries in a nested fashion can help avoid mistakes. Work from the outside in.
+{{%/* /callout */%}}
+```
 
+jQuery('')  
+jQuery('[] []')  
+jQuery('[attribute="content"]')  
