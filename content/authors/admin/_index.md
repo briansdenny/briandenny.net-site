@@ -86,5 +86,5 @@ email: ''
 highlight_name: false
 ---
 
-Brian Denny is an Editor at the University of Michigan and a Senior Technical Writer at Consensus Cloud Solutions. His professional experience includes ideating, implementing, and analyzing digital adoption microcontent; ensuring 508-compliance for digital content; creating and documenting workflows; data collection and statistical analysis; qualitative research; spearheading print publication of a university academic journal and K-12 yearbooks; designing and editing adult-learner curriculum; coaching and training (1-on-1 or group); and traditional classroom teaching.
+Brian Denny is an Editor at the University of Michigan and a Senior Technical Writer at Consensus Cloud Solutions. His professional experience includes ideating, implementing, and analyzing digital adoption microcontent; ensuring 508-compliance for digital content; creating and documenting workflows; data collection and statistical analysis; qualitative research; spearheading print publication of a university academic journal and lower-grade yearbooks; designing and editing adult-learner curriculum; coaching and training; and traditional classroom teaching.
 {style="text-align: justify;"}
