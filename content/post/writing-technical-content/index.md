@@ -317,11 +317,11 @@ renders as
 
 Hugo Academic supports a [shortcode for callouts](https://wowchemy.com/docs/content/writing-markdown-latex/#callouts), also referred to as _asides_, _hints_, or _alerts_. The **aside** block below: 
 
-
+```markdown
 {{%/* callout note */%}}
 A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
 {{%/* /callout */%}}
-
+```
 
 renders as
 
