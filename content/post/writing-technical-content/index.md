@@ -7,17 +7,13 @@ image:
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-Writers and editors working in different fields and on different projects often utilize dramatically different technologies and tools. For instance, this entire website was created using Markdown, a plain text formatting syntax that converts easy-to-read source material into web-ready HTML. 
-
-**Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
-
-On this page, you'll find some examples of the types of technical content that can be rendered with Wowchemy.
+When it comes to methods or tools, writers and editors have plenty of options to choose from. Nearly everyone has used a WYSIWYG editor, such as Word or Google Docs, to quickly and easily create and format digital content. Similarly, most Technical Writers are familiar with the XML and DITA formats used in software such as MadCap Flare, and most web developers can use HTML and CSS to create or edit web pages. If you aren't a web developer but you still want to create and customize your own website without having to learn a complex programming language, perhaps Markdown is a good choice for you. This entire website was created using the Academic, an open-source Hugo theme template available from Wowchemy. Hugo Academic and Wowchemy both use Markdown, a plain text formatting syntax that converts easy-to-read source material into web-ready HTML. Markdown provides a straightforward and consistent way to format text. And with Markdown extensions and integrations, you can format more complex and specialized content. On this page, you'll find some examples of the types of technical content that can be rendered with Markdown extensions when you create a website using Hugo Academic.
 
 ## Examples
 
 ### Code
 
-Wowchemy supports a Markdown extension for highlighting code syntax. You can customize the styles under the `syntax_highlighter` option in your `config/_default/params.yaml` file.
+There are Markdown extension for highlighting **code syntax**. In Markdown: 
 
     ```python
     import pandas as pd
@@ -35,11 +31,7 @@ data.head()
 
 ### Mindmaps
 
-Wowchemy supports a Markdown extension for mindmaps.
-
-Simply insert a Markdown `markmap` code block and optionally set the height of the mindmap as shown in the example below.
-
-A simple mindmap defined as a Markdown list:
+There's a Markdown extension for mindmaps. A **simple mindmap** defined as a Markdown list:
 
 <div class="highlight">
 <pre class="chroma">
@@ -65,7 +57,7 @@ renders as
   - wowchemy-plugins-reveal
 ```
 
-A more advanced mindmap with formatting, code blocks, and math:
+A more **advanced mindmap** with formatting, code blocks, and math:
 
 <div class="highlight">
 <pre class="chroma">
@@ -114,26 +106,10 @@ renders as
       ```
     - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
 ```
-
-### Charts
-
-Wowchemy supports the popular [Plotly](https://plot.ly/) format for interactive charts.
-
-Save your Plotly JSON in your page folder, for example `line-chart.json`, and then add the `{{</* chart data="line-chart" */>}}` shortcode where you would like the chart to appear.
-
-Demo:
-
-{{< chart data="line-chart" >}}
-
-You might also find the [Plotly JSON Editor](http://plotly-json-editor.getforge.io/) useful.
 
 ### Math
 
-Wowchemy supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the `math` option in your `config/_default/params.yaml` file.
-
-To render _inline_ or _block_ math, wrap your LaTeX math with `{{</* math */>}}$...${{</* /math */>}}` or `{{</* math */>}}$$...$${{</* /math */>}}`, respectively. (We wrap the LaTeX math in the Wowchemy _math_ shortcode to prevent Hugo rendering our math as Markdown. The _math_ shortcode is new in v5.5-dev.)
-
-Example **math block**:
+There's even a Markdown extension for $\LaTeX$ math. This **math** block:
 
 ```latex
 {{</* math */>}}
@@ -149,9 +125,9 @@ renders as
 $$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
 {{< /math >}}
 
-Example **inline math** `{{</* math */>}}$\nabla F(\mathbf{x}_{n})${{</* /math */>}}` renders as {{< math >}}$\nabla F(\mathbf{x}_{n})${{< /math >}}.
+You can also create **inline math**. For instance, `{{</* math */>}}$\nabla F(\mathbf{x}_{n})${{</* /math */>}}` renders as {{< math >}}$\nabla F(\mathbf{x}_{n})${{< /math >}}.
 
-Example **multi-line math** using the math linebreak (`\\`):
+And writing **multi-line math** is just as easy using the math linebreak (`\\`):
 
 ```latex
 {{</* math */>}}
@@ -173,9 +149,7 @@ $$
 
 ### Diagrams
 
-Wowchemy supports a Markdown extension for diagrams. You can enable this feature by toggling the `diagram` option in your `config/_default/params.toml` file or by adding `diagram: true` to your page front matter.
-
-An example **flowchart**:
+There are Markdown extension for diagrams. This Markdown **flowchart** block: 
 
     ```mermaid
     graph TD
@@ -195,7 +169,7 @@ C -->|One| D[Result 1]
 C -->|Two| E[Result 2]
 ```
 
-An example **sequence diagram**:
+And this **sequence diagram** block:
 
     ```mermaid
     sequenceDiagram
@@ -223,7 +197,7 @@ John->>Bob: How about you?
 Bob-->>John: Jolly good!
 ```
 
-An example **Gantt diagram**:
+The following **Gantt diagram** block:
 
     ```mermaid
     gantt
@@ -249,7 +223,7 @@ Parallel 3   :         des5, after des3, 1d
 Parallel 4   :         des6, after des4, 1d
 ```
 
-An example **class diagram**:
+This **class diagram** block:
 
     ```mermaid
     classDiagram
@@ -287,7 +261,7 @@ Class01 : int gorilla
 Class08 <--> C2: Cool label
 ```
 
-An example **state diagram**:
+And this **state diagram** block:
 
     ```mermaid
     stateDiagram
@@ -313,7 +287,7 @@ Crash --> [*]
 
 ### Todo lists
 
-You can even write your todo lists in Markdown too:
+With all these Markdown extensions to choose from, you'll likely need to create a **to-do list**. This Markdown block:
 
 ```markdown
 - [x] Write math example
@@ -329,7 +303,7 @@ renders as
 
 ### Tables
 
-Save your spreadsheet as a CSV file in your page's folder and then render it by adding the _Table_ shortcode to your page:
+You can also convert a spreadsheet into a Markdown table. Simply **render a CSV file** stored in your project files by adding the _Table_ shortcode to your page:
 
 ```go
 {{</* table path="results.csv" header="true" caption="Table 1: My results" */>}}
@@ -341,7 +315,7 @@ renders as
 
 ### Callouts
 
-Academic supports a [shortcode for callouts](https://wowchemy.com/docs/content/writing-markdown-latex/#callouts), also referred to as _asides_, _hints_, or _alerts_. By wrapping a paragraph in `{{%/* callout note */%}} ... {{%/* /callout */%}}`, it will render as an aside.
+Hugo Academic supports a [shortcode for callouts](https://wowchemy.com/docs/content/writing-markdown-latex/#callouts), also referred to as _asides_, _hints_, or _alerts_. The **aside** block below: 
 
 ```markdown
 {{%/* callout note */%}}
@@ -357,7 +331,7 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
 
 ### Spoilers
 
-Add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked.
+You can also add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked. The **spoiler** block below:
 
 ```markdown
 {{</* spoiler text="Click to view the spoiler" */>}}
@@ -371,9 +345,9 @@ renders as
 
 ### Icons
 
-Academic enables you to use a wide range of [icons from _Font Awesome_ and _Academicons_](https://wowchemy.com/docs/getting-started/page-builder/#icons) in addition to [emojis](https://wowchemy.com/docs/content/writing-markdown-latex/#emojis).
+Hugo Academic also enables you to use a wide range of [icons from _Font Awesome_ and _Academicons_](https://wowchemy.com/docs/getting-started/page-builder/#icons) in addition to [emojis](https://wowchemy.com/docs/content/writing-markdown-latex/#emojis).
 
-Here are some examples using the `icon` shortcode to render icons:
+The following **icon** shortcodes:
 
 ```markdown
 {{</* icon name="terminal" pack="fas" */>}} Terminal  
