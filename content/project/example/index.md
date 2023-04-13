@@ -41,6 +41,10 @@ Because HTML and the jQuery function rely on a nested coding language syntax, ty
 {{%/* /callout */%}}
 ```
 
+{{% callout %}}
+A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+{{% /callout %}}
+
 jQuery('')  
 jQuery('[] []')  
 jQuery('[attribute="content"]')  
