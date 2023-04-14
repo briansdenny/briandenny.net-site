@@ -62,13 +62,3 @@ From 'Getting Started' section:
     import libr
     print('hello')
     ```
-
-From main _index.md
-  From the projects block (provides the button links to topics)
-    buttons:
-        - name: All
-          tag: '*'
-        - name: Learning & Development
-          tag: L&D
-        - name: Technical Writing
-          tag: TW
