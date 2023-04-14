@@ -2,7 +2,7 @@
 title: Using jQuery Selectors to Customize Microcontent Display Rules
 summary: Step-by-step instructions for identifying jQuery selectors and applying them to Whatfix display rules
 tags:
-  - L&D
+
 date: '2023-04-10T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
