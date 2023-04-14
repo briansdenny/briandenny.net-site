@@ -13,12 +13,8 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://docs.google.com/document/d/1FHIZ73Q7WXiBeULPJdtQnU52fh-oQejYHUzkf4KBCPM/edit?usp=sharing'
 url_slides: ''
 url_video: ''
 
@@ -27,29 +23,8 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
-jQuery selectors are used to select HTML elements on a webpage based on the element attributes (e.g. id, class, attribute, type, value, etc.) specified in the jQuery selector. This functionality allows web developers to identify and interact with HTML elements in a variety of ways. For instance, digital adoption platforms like Whatfix, Userpilot, and WalkMe allow  content developers to configure display rules for microcontent based on jQuery selectors. In my role as a Technical Writer at Consensus Cloud Solutions, I spearhead the company's work with Whatfix by ideating, designing, writing, configuring, testing, and analyzing microcontent that sits on top of several of our existing web applications. While teaching myself how to use Whatfix, I also learned the basics of jQuery selectors, and this has allowed me to create more refined, customized, and adaptive Whatfix microcontent. I created **this set of step-by-step instructions** (LINK TO A PDF) as an easy reference that allows anyone to identify jQuery selectors for use in Whatfix display rules.
+jQuery selectors are used to select HTML elements on a webpage based on the element attributes (e.g. id, class, attribute, type, value, etc.) specified in the jQuery selector. This functionality allows web developers to identify and interact with HTML elements in a variety of ways. For instance, digital adoption platforms like Whatfix, Userpilot, and WalkMe allow  content developers to configure display rules for microcontent based on jQuery selectors. In my role as a Technical Writer at Consensus Cloud Solutions, I spearhead the company's work with Whatfix by ideating, designing, writing, configuring, testing, and analyzing microcontent that sits on top of several of our existing web applications. While teaching myself how to use Whatfix, I also learned the basics of jQuery selectors, and this has allowed me to create more refined, customized, and adaptive Whatfix microcontent. I created **this set of step-by-step instructions** (LINK TO A PDF) specifically for my colleagues as an easy reference sheet allowing them to begin exploring the process of identifying jQuery selectors within one of our web apps and using those selectors in Whatfix display rules.
 
-
-REMOVE ALL THIS STUFF
-
-   $('[<span style="color:red">attribute</span>="<span style="color:blue">content</span>"]') 
-
-{{% callout note %}}
-Because HTML and the jQuery function rely on a nested coding language syntax, typing your queries in a nested fashion can help avoid mistakes. Work from the outside in.
-{{% /callout %}}
-
-  $('')  
-  $('[] []')  
-  $('[<span style="color:red">attribute</span>="<span style="color:blue">content</span>"]') 
-
-
-  $('[<span style="color:red">attribute</span>="<span style="color:blue">tent</span>"]') 
-
-
-  $('[<span style="color:red">grandparentattribute</span>="<span style="color:blue">content</span>"] [<span style="color:red">parentattribute</span>="<span style="color:blue">content</span>"] [<span style="color:red">childattribute</span>="<span style="color:blue">content</span>"]') 
-  $('[<span style="color:red">attribute</span>="<span style="color:blue">content</span>"]:contains(value)') 
-  $('[<span style="color:red">attribute</span>="<span style="color:blue">content</span>"]:not(:contains(value))') 
-  $('<span style="color:purple">tag</span>[<span style="color:red">parentattribute</span>="<span style="color:blue">content</span>"] [<span style="color:red">attribute</span>="<span style="color:blue">content</span>"]:not(:contains(value))')
