@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Writer, Editor, Researcher, Educator, Coach
+role: Writer, Editor, Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
