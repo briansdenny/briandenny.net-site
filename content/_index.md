@@ -128,8 +128,8 @@ sections:
       email: briansdenny@gmail.com
       address:
         street: 
-        city: Long Beach
-        region: CA
+        city: Pittsburgh
+        region: PA
         country: United States
         country_code: US
       # Automatically link email and phone or display as text?
