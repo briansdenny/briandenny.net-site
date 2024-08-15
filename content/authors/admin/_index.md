@@ -14,15 +14,19 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Writer/Editor, Researcher, Educator, Coach
+
+role: Writer, Editor, Researcher
+
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Organization/Affilitation name
-    url: https://www.google.edu/
+  - name: University of Michigan
+    url: https://www.umich.edu/]
+  - name: Consensus Cloud Solutions, Inc.
+    url: https://www.consensus.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My short bio goes here.
+bio: Brian loves learning and teaching as much as he loves writing and editing (and reading)!
 
 # Interests to show in About widget
 interests:
@@ -33,15 +37,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MA in Political Science
+      institution: University of California-Irvine
+      year: 2016
+    - course: BA in International Affairs
+      institution: Florida State University
+      year: 2013
+    - course: BSc in Political Science
+      institution: Florida State University
+      year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -51,34 +55,38 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    label: Send me a message
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/briansdenny
+    label: Check out my github
+    display:
+      header: true
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
+    label: View my LinkedIn
+    display:
+      header: true
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
+  - icon: file
+    icon_pack: fas
+    icon-size: xs
     link: uploads/resume.pdf
+    label: Download my resume
+    display:
+      header: true
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
-Brian Denny is a Senior Technical Writer at Consensus Cloud Solutions, Inc. and an Editor at the University of Michigan. In addition to technical writing and academic editing, his interests and experience include creating and editing adult-learner curriculum, classroom teaching, coaching (1-on-1 or group), data collection and statistical analysis, qualitative research, and publishing. 
+Brian Denny is an Editor at the University of Michigan and a Senior Technical Writer at Consensus Cloud Solutions. His professional experience includes ideating, implementing, and analyzing digital adoption microcontent; ensuring 508-compliance for digital content; creating and documenting workflows; data collection and statistical analysis; qualitative research; spearheading print publication of a university academic journal and lower-grade yearbooks; designing and editing adult-learner curriculum; coaching and training; and traditional classroom teaching.
 {style="text-align: justify;"}
