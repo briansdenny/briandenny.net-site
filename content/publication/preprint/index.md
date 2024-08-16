@@ -1,7 +1,7 @@
 ---
 #title: "An example preprint / working paper"
 #authors:
-- admin
+#- admin
 #date: "2019-04-07T00:00:00Z"
 #doi: ""
 
@@ -24,7 +24,7 @@
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 #tags:
-- Source Themes
+#- Source Themes
 #featured: false
 
 #links:
@@ -52,7 +52,7 @@
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 #projects:
-- internal-project
+#- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

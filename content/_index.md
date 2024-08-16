@@ -128,7 +128,7 @@ sections:
       text: |-
         Have a question, comment, or feedback? Get in touch! I'd love to connect with you. 
       # Contact (add or remove contact options as necessary)
-      email: /#contact
+      email: briansdenny@gmail.com
       address:
         street: 
         city: Pittsburgh
