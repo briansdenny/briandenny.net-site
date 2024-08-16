@@ -57,12 +57,12 @@ social:
     label: Send me a message
     display:
       header: true
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/briansdenny
-    label: Check out my github
-    display:
-      header: true
+  - #icon: github
+    #icon_pack: fab
+    #link: https://github.com/briansdenny
+    #label: Check out my github
+    #display:
+    #  header: true
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/brian-denny-33b67a3b/
