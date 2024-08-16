@@ -60,7 +60,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/briansdenny
-    label: Check out my github
+    label: Check out my github!
     display: false
       header: true
   - icon: linkedin
