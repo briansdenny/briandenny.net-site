@@ -53,7 +53,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:briansdenny@gmail.com
     label: Send me a message
     display:
       header: true
