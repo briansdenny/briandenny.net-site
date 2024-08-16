@@ -39,7 +39,7 @@ education:
     - course: MA in Political Science
       institution: University of California-Irvine
       year: 
-    - course: BA in International Affairs
+    - course: BA within Honors in International Affairs
       institution: Florida State University
       year: 
     - course: BSc in Political Science
