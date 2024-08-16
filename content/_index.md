@@ -18,7 +18,7 @@ sections:
       items:
         - name: Content Strategy
           description:
-          icon: diagram-project
+          icon: magnifying-glass
           icon_pack: fas
         - name: Statistics & Analysis
           description:
