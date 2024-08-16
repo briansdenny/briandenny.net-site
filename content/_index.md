@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-04-10
+date: 2024-08-16
 type: landing
 
 sections:
@@ -16,7 +16,7 @@ sections:
     content:
       title: Skills
       items:
-        - name: Workflow & Process Mapping
+        - name: Content Strategy
           description:
           icon: diagram-project
           icon_pack: fas
@@ -28,9 +28,9 @@ sections:
           description:
           icon: database
           icon_pack: fas
-        - name: Quantitative & Qualitative Research
+        - name: Workflow & Process Mapping
           description:
-          icon: magnifying-glass
+          icon: diagram-project
           icon_pack: fas
         - name: Teaching & Learning
           description:
@@ -52,7 +52,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Senior Technical Writer
+        - title: Senior Technical Writer & Whatfix Lead
           company: Consensus Cloud Solutions, Inc.
           company_url: ''
           company_logo: 
@@ -60,16 +60,21 @@ sections:
           date_start: '2022-03-21'
           date_end: ''
           description: |2-
-              * Spearheading collaborative and sustainable digital adoption CLM practices while designing and implementing expanded microcontent across multiple brands.
-              * Creating instructional guides for digital adoption microcontent creators on WCAG compliance and the use of CSS, jQuery, and window variables for content segmentation.
-              * Furthering a "Top 5" company goal by conducting market research on API developer community portals to inform future product development.
-              * Reduced cancellations by 16% by designing, validating, implementing, and maintaining customer-facing digital adoption microcontent to supplement existing UI.
-              * Interviewed internal stakeholders to create process chart of existing payment processing workflow to enable implementation of new fraud prevention tools.
+              * Spearheading digital adoption program on flagship web-app through collaboration with dev team, tech writers, and VPs in preparation for multi-brand expansion.
+              * Training traditional tech writers on writing/planning microcontent; segmenting content with Chrome DevTools, and collecting/analyzing a variety of data streams.
+              * Regularly designing and conducting logistic regressions on experimental data (A/B tests, user surveys, cancel rates) to provide new insights for product team.
+              * Collaborating with VP of eCommerce to create and implement in-app upgrade process with customized microcontent to drive revenue while reducing costs associated with sales efforts.
+              * Designing, recording, and editing videos and GIFs for company-wide distribution, efficient communication with QA team, and/or inclusion in digital adoption content.
+              * Using employee interviews to document billing workflows and payment processing.
+              * Initiated User Experience interviewing to identify user workflows and pain points as part of digital adoption development strategy for digital signing web-app.
+              * Reduced cancellations by 16% after designing, validating, and implementing customer-facing digital adoption microcontent to supplement existing UI.
+              * Furthered a “Top 5” company goal by conducting market research on API developer community portals to inform future product development.
+
         - title: Editor (academic)
-          company: University of Michigan & University of California-Irvine
+          company: Harvard University (forthcoming), University of Michigan & University of California-Irvine
           company_url: ''
           company_logo:
-          location: Michigan & California
+          location: (remote)
           date_start: '2020-02-01'
           date_end: ''
           description: |2-

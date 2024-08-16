@@ -25,7 +25,7 @@ organizations:
     url: https://www.consensus.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Brian loves learning and teaching as much as he loves writing and editing (and reading)!
+bio: Brian loves learning and teaching as much as he loves writing and editing (and reading and making)!
 
 # Interests to show in About widget
 interests:
@@ -38,13 +38,13 @@ education:
   courses:
     - course: MA in Political Science
       institution: University of California-Irvine
-      year: 2016
+      year: 
     - course: BA in International Affairs
       institution: Florida State University
-      year: 2013
+      year: 
     - course: BSc in Political Science
       institution: Florida State University
-      year: 2013
+      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
