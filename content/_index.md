@@ -130,7 +130,7 @@ sections:
       text: |-
         Have a question, comment, or feedback? Get in touch! I'd love to connect with you. 
       # Contact (add or remove contact options as necessary)
-      email: mailto:briansdenny@gmail.com
+      email: /#contact
       address:
         street: 
         city: Pittsburgh
