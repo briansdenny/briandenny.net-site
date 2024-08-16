@@ -32,8 +32,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: uploads/publication.pdf
-#url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: https://drive.google.com/file/d/1loedHgwNSM_u7lqpQZ0h99fhSZX4fVIc/view?usp=sharing
+url_code: 'https://drive.google.com/file/d/1loedHgwNSM_u7lqpQZ0h99fhSZX4fVIc/view?usp=sharing'
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''
