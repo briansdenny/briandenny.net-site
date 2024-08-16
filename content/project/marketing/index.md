@@ -1,6 +1,6 @@
 ---
-title: Marketing Material for Potential Email Campaign
-summary: A simplified and snappy version of existing marketing content intended to quickly entice prospective customers
+title: GIF Instructions for Unintuitive User Interface
+summary: A visual demonstration of vital web-app functionality presented only to impacted users via popup
 tags:
   - L&D
 date: '2023-04-10T00:00:00Z'
@@ -26,7 +26,8 @@ url_video: ''
 slides: ""
 ---
 
-Problem: Product leadership at Consensus Cloud Solutions wanted to shape an upcoming sales campaign but found the existing marketing material both too complex and too vague to entice potential customers. I was asked to write several shorter, more compelling marketing pieces for potential inclusion in a future email campaign. 
+Problem: The first major update to Consensus Cloud Solutions’ recently acquired document signing website allowed users to send recipients multiple documents at once. However, immediately following the update, the customer support team began receiving numerous calls from customers who could not locate their additional documents. 
 
-Solution: After reviewing the existing marketing material, I devised a list of questions to ensure I sufficiently understood the product. After gathering responses to those questions from SMEs in the Product department, I then began writing with the goal of turning out [***concise marketing pieces***](https://docs.google.com/document/d/1Mx04YMMvGGacIVRiFUY_4pr98eu_u4Zf/edit?usp=sharing&ouid=112942925481969310177&rtpof=true&sd=true) that emphasize the brand name and functionality, things missing in the existing marketing material.
+Solution: I designed and created [***a popup with an embedded GIF***](https://drive.google.com/file/d/1M6-qfvQiQeJNT44Zo1Nrqeso4fRUjaZT/view?usp=sharing) showing users exactly where their additional documents were located. I used jQuery selectors to identify users sending multiple documents and ensure only those users were shown the popup and only at the right time. I also included a simple feedback mechanism on the popup to evaluate its helpfulness.
+
 
