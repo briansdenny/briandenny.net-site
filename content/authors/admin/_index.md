@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Writer/Editor, Researcher
+role: Writer/Editor, Researcher, Teacher, Strategist
 
 
 # Organizations/Affiliations to show in About widget
@@ -87,5 +87,6 @@ email: ''
 highlight_name: false
 ---
 
-Brian Denny is an Editor at the University of Michigan and a Senior Technical Writer at Consensus Cloud Solutions. His professional experience includes ideating, implementing, and analyzing digital adoption microcontent; ensuring 508-compliance for digital content; creating and documenting workflows; data collection and statistical analysis; qualitative research; spearheading print publication of a university academic journal and lower-grade yearbooks; designing and editing adult-learner curriculum; coaching and training; and traditional classroom teaching.
+Hello! I'm a writer and editor with an extensive background in research methodologies (quantitative and qualitative) and adult teaching/coaching. I'm currently an Editor at the University of Michigan (transitioning to a similar role at Harvard) and a Senior Technical Writer and the Whatfix Lead at Consensus Cloud Solutions, Inc. I'm passionate about making measurable impacts through my research, my writing, and my personal connections! I'm naturally inquisitive, so I enjoy learning and am always eager to take on new challenges. My extensive experience and formal training in research, education, and teaching has refined my ability to ask the right questions, systematically analyze problems, identify creative solutions, report on my findings, and teach others how to do the same.
+
 {style="text-align: justify;"}
