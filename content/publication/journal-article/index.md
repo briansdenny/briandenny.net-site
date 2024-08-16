@@ -32,7 +32,6 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-<<<<<<< HEAD
 url_pdf: https://drive.google.com/file/d/1loedHgwNSM_u7lqpQZ0h99fhSZX4fVIc/view?usp=sharing
 url_code: 'https://drive.google.com/file/d/1loedHgwNSM_u7lqpQZ0h99fhSZX4fVIc/view?usp=sharing'
 #url_dataset: ''
@@ -41,16 +40,6 @@ url_code: 'https://drive.google.com/file/d/1loedHgwNSM_u7lqpQZ0h99fhSZX4fVIc/vie
 #url_slides: ''
 #url_source: ''
 #url_video: ''
-=======
-url_pdf: uploads/publication.pdf
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
->>>>>>> parent of b6dd205 (cleaning up pub page)
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
