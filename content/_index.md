@@ -110,8 +110,8 @@ sections:
       flip_alt_rows: false
   - block: collection
     content:
-      # title: Publications
-      # text: |-
+      title: Publication
+      text: |-
         # {{% callout note %}}
         # Quickly discover relevant content by [filtering publications](./publication/).
         # {{% /callout %}}
