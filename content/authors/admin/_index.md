@@ -65,7 +65,7 @@ social:
       header: true
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/brian-denny-33b67a3b/
     label: View my LinkedIn
     display:
       header: true
