@@ -53,7 +53,7 @@ url_code: 'https://drive.google.com/file/d/1loedHgwNSM_u7lqpQZ0h99fhSZX4fVIc/vie
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-#projects: []
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
