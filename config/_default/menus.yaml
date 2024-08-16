@@ -4,10 +4,10 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Portfolio Projects
+  - name: Projects
     url: '#projects'
     weight: 10 
-  - name: Publications & Presentations
+  - name: Publications
     url: '#publication'
     weight: 30
   - name: Contact
