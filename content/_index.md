@@ -110,7 +110,7 @@ sections:
       flip_alt_rows: false
   - block: collection
     content:
-      title: Publications & Presentations
+      title: Publications
       text: |-
 
       filters:
