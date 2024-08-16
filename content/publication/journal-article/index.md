@@ -4,7 +4,7 @@ authors:
 - Brian Denny
 author_notes:
 - "Solo-authored"
-date: "2015-09-01T00:00:00Z"
+date: "2021-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Government and Opposition, 1*(1)"
+publication: "*Government and Opposition, 56(1)"
 publication_short: ""
 
 abstract: Inspired by the famous Prisoner's Dilemma game theory model, Karin Marie Fierke introduced the Warden's Dilemma to explain self-sacrifice and compromise in asymmetric interactions and to show that such an explanation requires a social ontology. She applied her model to Irish Republican Army hunger strikes in 1980–1981. Her model, however, closely resembles what game theorists call a ‘nested game’. This article (re)introduces the nested Warden's Dilemma, focuses on the tripartite relationship inherent to the model and examines hunger strikes as part of a strategy potentially informed by instrumental rationality and knowledge of the Warden's Dilemma dynamic. After briefly discussing the implications of approaching self-sacrificial behaviour from a rationalist perspective, a case study of strategic non-violence in Myanmar (Burma) demonstrates how third parties can both diffuse instrumental rationality regarding political self-sacrifice and facilitate patterns of resistance that appear to capitalize on the Warden's Dilemma dynamic.
