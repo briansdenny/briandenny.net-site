@@ -71,7 +71,7 @@ sections:
               * Furthered a “Top 5” company goal by conducting market research on API developer community portals to inform future product development.
 
         - title: Editor (academic)
-          company: Harvard University (forthcoming), University of Michigan & University of California-Irvine
+          company: Harvard University, University of Michigan & University of California-Irvine
           company_url: ''
           company_logo:
           location: (remote)
