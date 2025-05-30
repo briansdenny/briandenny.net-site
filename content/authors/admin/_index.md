@@ -75,7 +75,7 @@ social:
   - icon: file
     icon_pack: fas
     icon-size: xs
-    link: uploads/resume.pdf
+    link: uploads/BrianDenny-Resume-May2025.pdf
     label: Download my resume
     display:
       header: true
@@ -87,6 +87,6 @@ email: ''
 highlight_name: false
 ---
 
-Hello! I'm a writer and editor with an extensive background in research methodologies (quantitative and qualitative) and adult teaching and coaching. I'm currently an Editor at Harvard University and a Senior Technical Writer and Whatfix Lead at Consensus Cloud Solutions, Inc. I'm passionate about making measurable impacts through my research, my writing, and my personal connections! I'm naturally inquisitive, so I enjoy learning and am always eager to take on new challenges. My extensive experience and formal training in research, education, and teaching has refined my ability to ask the right questions, systematically analyze problems, identify creative solutions, report on my findings, and teach others how to do the same.
+Hello! I'm a writer/editor with an extensive background in research methodologies (quantitative and qualitative) and adult teaching and coaching. I'm currently an Editor at Harvard University and a Senior Technical Writer and Whatfix Lead at Consensus Cloud Solutions, Inc. I'm passionate about making measurable impacts through my research, my writing, and my personal connections! I'm naturally inquisitive, so I enjoy learning and am always eager to take on new challenges. My extensive experience and formal training in research, education, and teaching has refined my ability to ask the right questions, systematically analyze problems, identify creative solutions, report on my findings, and teach others how to do the same.
 
 {style="text-align: justify;"}
