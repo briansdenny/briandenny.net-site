@@ -62,7 +62,6 @@ social:
     link: https://github.com/briansdenny
     label: Check out my github!
     display: false
-      header: true
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/brian-denny-33b67a3b/
