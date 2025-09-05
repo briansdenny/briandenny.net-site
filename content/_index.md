@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download resume
-        url: uploads/BrianDenny-Resume-May2025.pdf
+        url: uploads/BrianDenny_Resume_Sep2025.pdf
     design:
       css_class: dark
       background:
