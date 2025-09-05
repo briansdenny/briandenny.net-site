@@ -1,9 +1,9 @@
 [build]
   # Use ONE command (pick your preferred Pagefind flag style)
   # Option A (recommended syntax):
-  command = "hugo --gc --minify -b $URL && npm_config_yes=true npx pagefind --site \"public\""
+  # commandmmand = "hugo --gc --minify -b $URL && npm_config_yes=true npx pagefind --site \"public\""
   # Option B (keep your existing style):
-  # command = "hugo --gc --minify -b $URL && npx pagefind --source 'public'"
+  command = "hugo --gc --minify -b $URL && npx pagefind --source 'public'"
 
   publish = "public"
 

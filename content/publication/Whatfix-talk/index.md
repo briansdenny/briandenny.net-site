@@ -4,11 +4,11 @@ title: "Keynote Speaker - Whatfix Inaugural User Group"
 #- admin
 date: "2024-09-23T00:00:00Z"
 #doi: ""
-
+---
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
 
-Publication type.
+Publication type
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
@@ -28,8 +28,8 @@ abstract: In this presentation, I shared the many successes Consensus Cloud Solu
 #featured: false
 
 #links:
-- #name: Custom Link
-  #url: http://example.org
+#name: Custom Link
+#url: http://example.org
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: '#'
