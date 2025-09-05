@@ -1,9 +1,11 @@
 ---
-title: "The Warden's Dilemma as Nested Game: Political Self-Sacrifice, Instrumental Rationality, and Third Parties"
+title: "The Warden’s Dilemma as Nested Game: Political Self-Sacrifice, Instrumental Rationality,
+and Third Parties"
 authors:
-- Brian Denny
+- admin
 author_notes:
-- "Solo-authored"
+- "Equal contribution"
+- "Equal contribution"
 date: "2021-01-01T00:00:00Z"
 doi: ""
 
@@ -11,29 +13,28 @@ doi: ""
 publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Government and Opposition, 56(1)"
+publication: "*Government & Opposition, 56*(1)"
 publication_short: ""
 
 abstract: Inspired by the famous Prisoner's Dilemma game theory model, Karin Marie Fierke introduced the Warden's Dilemma to explain self-sacrifice and compromise in asymmetric interactions and to show that such an explanation requires a social ontology. She applied her model to Irish Republican Army hunger strikes in 1980–1981. Her model, however, closely resembles what game theorists call a ‘nested game’. This article (re)introduces the nested Warden's Dilemma, focuses on the tripartite relationship inherent to the model and examines hunger strikes as part of a strategy potentially informed by instrumental rationality and knowledge of the Warden's Dilemma dynamic. After briefly discussing the implications of approaching self-sacrificial behaviour from a rationalist perspective, a case study of strategic non-violence in Myanmar (Burma) demonstrates how third parties can both diffuse instrumental rationality regarding political self-sacrifice and facilitate patterns of resistance that appear to capitalize on the Warden's Dilemma dynamic.
 
 # Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Solo-authored, peer-reviewed academic journal publication written in British English and partly based on archival research at Cornell University 
 
 tags:
-- Source Themes
+
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://drive.google.com/file/d/1loedHgwNSM_u7lqpQZ0h99fhSZX4fVIc/view?usp=sharing
-url_code: 'https://drive.google.com/file/d/1loedHgwNSM_u7lqpQZ0h99fhSZX4fVIc/view?usp=sharing'
+#url_pdf: https://drive.google.com/drive/u/0/folders/1iTg0E4UfEzeC0wvuLExrAByMqZWY9V5h
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''
@@ -63,12 +64,3 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import #publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

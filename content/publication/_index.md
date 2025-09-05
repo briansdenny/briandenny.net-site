@@ -1,16 +1,23 @@
 ---
-title: Publications
-cms_exclude: true
+title: Selected Papers & Publications
+summary: My courses
+type: landing
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
-view: 4
+cascade:
+  - _target:
+      kind: page
+    params:
+      show_breadcrumb: false
 
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ''
-  image: ''
+sections:
+  - block: collection
+    id: publication
+    content:
+      title: Selected Papers & Publications
+      filters:
+        folders:
+          - publication
+    design:
+      view: article-grid
+      columns: 2
 ---

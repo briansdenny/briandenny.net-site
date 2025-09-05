@@ -1,150 +1,131 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
-date: 2024-08-16
+title: ""
+date: 2022-10-24
 type: landing
 
+design:
+  # Default section spacing
+  spacing: "6rem"
+
 sections:
-  - block: about.avatar
-    id: about
+  - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      # Override your bio text from `authors/admin/_index.md`?
-      text:
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: Content Strategy
-          description:
-          icon: magnifying-glass
-          icon_pack: fas
-        - name: Statistics & Analysis
-          description:
-          icon: chart-line
-          icon_pack: fas
-        - name: Data Collection & Refinement
-          description:
-          icon: database
-          icon_pack: fas
-        - name: Workflow & Process Mapping
-          description:
-          icon: diagram-project
-          icon_pack: fas
-        - name: Teaching & Learning
-          description:
-          icon: chalkboard-user
-          icon_pack: fas
-        - name: Writing & Editing
-          description:
-          icon: marker
-          icon_pack: fas 
-  - block: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Senior Technical Writer & Whatfix Lead
-          company: Consensus Cloud Solutions, Inc.
-          company_url: ''
-          company_logo: 
-          location: California
-          date_start: '2022-03-21'
-          date_end: ''
-          description: |2-
-              * Spearheading digital adoption program on flagship web-app through collaboration with dev team, tech writers, and VPs in preparation for multi-brand expansion.
-              * Training traditional tech writers on writing/planning microcontent; segmenting content with Chrome DevTools, and collecting/analyzing a variety of data streams.
-              * Regularly designing and conducting logistic regressions on experimental data (A/B tests, user surveys, cancel rates) to provide new insights for product team.
-              * Collaborating with VP of eCommerce to create and implement in-app upgrade process with customized microcontent to drive revenue while reducing costs associated with sales efforts.
-              * Designing, recording, and editing videos and GIFs for company-wide distribution, efficient communication with QA team, and/or inclusion in digital adoption content.
-              * Using employee interviews to document billing workflows and payment processing.
-              * Initiated User Experience interviewing to identify user workflows and pain points as part of digital adoption development strategy for digital signing web-app.
-              * Reduced cancellations by 16% after designing, validating, and implementing customer-facing digital adoption microcontent to supplement existing UI.
-              * Furthered a “Top 5” company goal by conducting market research on API developer community portals to inform future product development.
-
-        - title: Editor (academic)
-          company: Harvard University, University of Michigan & University of California-Irvine
-          company_url: ''
-          company_logo:
-          location: (remote)
-          date_start: '2020-02-01'
-          date_end: ''
-          description: |2-
-              * Conducting developmental, line, and copy editing for researcher-turned-professor's dissertation, presentations, academic articles, job market material, and grant proposals (one awarded $2.5 million and another likely to be awarded in 2023). 
+      text: ""
+      # Show a call-to-action button under your biography? (optional)
+      button:
+        text: Download resume
+        url: uploads/BrianDenny-Resume-May2025.pdf
     design:
-      columns: '2'
-  - block: portfolio
-    id: projects
+      css_class: dark
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: abstract-envelope.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
+  - block: markdown
     content:
-      title: Projects
+      title: 'A Little More About Me'
+      subtitle: ''
+      text: |-
+       My writing, editing, research, and teaching have opened many interesting doors for me, and I'm excited for the future! As disparate as my skillset may seem, it has refined my ability to analyze tough problems, ask the right questions, identify creative solutions, report on my findings, and teach others how to do the same.
+        
+    design:
+      columns: '1'
+  - block: markdown
+    content:
+      title: 'What Others Are Saying About Me'
+      subtitle: ''
+      text: |-
+        Product Manager
+        > ...you are awesome =D
+        
+        Colleague
+        > I think this is excellent feedback and the suggestions are good - relevant and actionable!
+        
+        Colleague
+        > At some point, I would also like to speak to you about possibly joining the DEI Council. I think you would make a good candidate and I know you are outspoken and reflective enough to share good ideas.
+
+        {{< spoiler text="Click for excerpts from 2024 review" >}}
+        Put bluntly, Brian rocked my expectations for this first half of 2024. Under his guidance we were able to:
+
+        - Successfully integrate the DOC brands into Whatfix (WF).
+        - Perform our first meaningful A/B test on the eFax portal WF content.
+        - Integrate direct CS and Product feedback loops into the portal, giving customers direct access to these teams as a means to solve issues or problems with their eFax accounts.
+        - Collect meaningful data regarding customer portal use using WF Analytics.
+        - Begin helping internal CCSI teams understand how we can use WF to meet their messaging and customer communication needs based on rate plans.
+        <br/>
+
+        Brian continues to be a truly valuable asset to my team, to Product, and to CCSI overall. He is a self-starter, who pushes the Whatfix agenda diligently and with the needed insight to make it productive for all of the products that have integrated WF into their UI/UX.
+        <br/>
+        
+        Brian maintains an even level of professionalism with whomever he deals with, whether that be CCSI personnel, WF employees, or our CCSI customers. He is open, direct, and comfortable with sudden change (a CCSI fact of life). He thrives in our small team environment, but is not afraid to reach out to CCSI resources he is not familiar with in order to get work done (and to customers as well, when and if needed).
+        <br/>
+
+        Brian is very results oriented, and is very transparent about any perceived difficulties that may be encountered in a particular project. He is also very astute about best practices and implementing procedures. I like working with Brian; he is easy going and easy to get along with.
+
+        {{< /spoiler >}}
+
+        {{< spoiler text="Click for excerpts from 2023 review" >}}
+        'Exceeding Expectations' (We were quite busy at this time, so my 2023 review includes no free response feedback. But every response was the highest, 'Exceeding Expectations')
+        {{< /spoiler >}}
+
+        {{< spoiler text="Click for excerpts from 2022 review" >}}
+        Before Brian joined CCSI, we were not a team that had much use for
+        user data, and in fact had no good way of obtaining it to even analyze. Brian has shown us the inner workings and benefits of using a tool like Whatfix, and has made our approach to providing jSign help truly data driven. We now know how our jSign customers are interacting with the app, and with the help, and we can target specific assistance to specific pain points, resulting in a better user experience. This is all very exciting and new for us. Brian has opened a whole new world for the team and we are finding new ways to contribute to the overall success of jSign, product, and CCSI. 
+
+        {{< /spoiler >}}
+
+    design:
+      columns: '1'
+  - block: collection
+    id: portfolio
+    content:
+      title: Selected Portfolio Projects
       filters:
         folders:
           - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Learning & Development
-          tag: L&D
-        - name: Technical Writing
-          tag: TechWriting
+        featured_only: false
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
-  - block: collection
-    content:
-      title: Publications
-      text: |-
-
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: 
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: |-
-        Have a question, comment, or feedback? Get in touch! I'd love to connect with you. 
-      # Contact (add or remove contact options as necessary)
-      email: briansdenny@gmail.com
-      address:
-        street: 
-        city: Pittsburgh
-        region: PA
-        country: United States
-        country_code: US
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '2'
+      view: article-grid
+      columns: 3
+ 
+  # unhash this when I'm ready to bring the news back
+  # - block: collection
+  #  id: news
+  #  content:
+  #    title: Recent News
+  #    subtitle: ''
+  #    text: ''
+      # Page type to display. E.g. post, talk, publication...
+  #    page_type: post
+      # Choose how many pages you would like to display (0 = all pages)
+   #   count: 5
+      # Filter on criteria
+    #  filters:
+     #   author: ""
+      #  category: ""
+       # tag: ""
+   #     exclude_featured: false
+   #     exclude_future: false
+   #     exclude_past: false
+   #     publication_type: ""
+      # Choose how many pages you would like to offset by
+   #   offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+   #   order: desc
+   # design:
+      # Choose a layout view
+   #   view: date-title-summary
+      # Reduce spacing
+   #   spacing:
+    #    padding: [0, 0, 0, 0]
+  
 ---

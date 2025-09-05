@@ -1,29 +1,18 @@
 ---
-title: Using jQuery Selectors to Customize Microcontent Display Rules
-summary: Step-by-step instructions for identifying jQuery selectors and applying them to Whatfix display rules
+title: Identifying jQuery Selectors for Use in Microcontent Display Rules
+date: 2024-01-01
 tags:
-  - L&D
-date: '2023-04-10T00:00:00Z'
-
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
-links:
-url_code: ''
-url_pdf: 
-url_slides: ''
-url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
+  
+summary: Internal teaching document with instructions for identifying jQuery selectors and applying them to Whatfix display rules
 ---
 
-jQuery selectors are used to select HTML elements on a webpage based on the element attributes (e.g. id, class, attribute, type, value, etc.) specified in the jQuery selector. This functionality allows web developers to identify and interact with HTML elements in a variety of ways. For instance, digital adoption platforms like Whatfix, Userpilot, and WalkMe allow  content developers to configure display rules for microcontent based on jQuery selectors. In my role as a Technical Writer at Consensus Cloud Solutions, I spearhead the company's work with Whatfix by ideating, designing, writing, configuring, testing, and analyzing microcontent that sits on top of several of our existing web applications. While teaching myself how to use Whatfix, I also learned the basics of jQuery selectors, and this has allowed me to create more refined, customized, and adaptive Whatfix microcontent. I created these [***step-by-step instructions***](https://docs.google.com/document/d/1FHIZ73Q7WXiBeULPJdtQnU52fh-oQejYHUzkf4KBCPM/edit?usp=sharing) specifically for my colleagues as an easy reference sheet allowing them to begin exploring the process of identifying jQuery selectors within one of our web apps and using those selectors in Whatfix display rules.
+## Problem
+As Senior Technical Writer and Whatfix Lead at Consensus Cloud Solutions, part of my role entails transitioning a small group of technical writers away from traditional, single-source authoring and towards the regular design, creation, management, and analysis of in-app, just-in-time digital adoption microcontent. One aspect of this transition involves teaching my team how to utilize the web apps' underlying elements to customize the digital adoption content. This involves identifying HTML elements through jQuery or CSS selectors and including the selectors in Whatfix display rules. Given that my team has no prior involvement in web development and we work asynchronously, I needed to create a training document that my team could reference at their convenience. I also wanted to familiarize my team with the very basics of reading HTML code. 
+
+## Solution
+I compiled [these step-by-step instructions](https://docs.google.com/document/d/1FHIZ73Q7WXiBeULPJdtQnU52fh-oQejYHUzkf4KBCPM/edit?usp=sharing) as a reference sheet my team could use to begin exploring the process of identifying jQuery selectors. While these instructions are not necessarily the easiest way to identify selectors, I intentionally wrote them so my team would gain more hands-on experience reading HTML code. 
+
+## Results 🤩
+These instructions, along with a series of workshops where I guided my team through the process, have resulted in every member of the Technical Writing team at Consensus increasing their capacity to both ideate Whatfix content that relies on selectors and independently identify selectors for use in that content. I have since been able to delegate selector identification tasks to members of the team. Their increased capacity also means they more fully understand how Whatfix content works. 
+
+<!--more-->

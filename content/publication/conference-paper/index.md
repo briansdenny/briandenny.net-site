@@ -1,40 +1,38 @@
 ---
-title: 'An example conference paper'
+title: 'Keynote Speaker at Inaugural Whatfix User Group, NYC'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2023-09-22T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+#publication_types: ['NOTEpaper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+#publication: In *Hugo Blox Builder Conference*
+#publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: I served as the keynote speaker during Whatfix's inaugural in-person User Group meeting in New York City. Consensus Cloud Solutions, Inc has learned many lessons through its partnership with Whatfix. Those lessons include working backwards from primary goals, maximizing the available data, regularly validating content in production, establishing logical naming conventions, and keeping detailed records. There have also been many successes, including both quantitative and qualitative analyses that are unprecedented within the Product team and a modernizing shift within the Technical Documentation team away from single-source PDF user manuals and toward just-in-time, in-app guidance. 
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Keynote speech to Whatfix User Group on the many successes and lessons stemming from Consensus' partnership with Whatfix
 
-tags: []
+tags:
+
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,14 +42,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+#url_pdf: ''
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_poster: ''
+#url_project: ''
+#url_slides: ''
+#url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -76,12 +74,3 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
