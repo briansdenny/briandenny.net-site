@@ -15,7 +15,7 @@ sections:
       text: 
       filters:
         folders:
-          - portfolio
+          - project
     design:
       view: article-grid
       fill_image: false
