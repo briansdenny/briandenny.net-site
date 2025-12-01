@@ -45,13 +45,15 @@ sections:
       subtitle: ''
       text: |-
         Product Manager
-        > ...you are awesome =D
+        > You are awesome =D
         
         Colleague
         > I think this is excellent feedback and the suggestions are good - relevant and actionable!
         
         Colleague
-        > At some point, I would also like to speak to you about possibly joining the DEI Council. I think you would make a good candidate and I know you are outspoken and reflective enough to share good ideas.
+        > At some point, I would also like to speak to you about possibly joining the Council. I know you are reflective enough to share good ideas.
+
+        (Haven't gotten a 2025 review yet, so excerpts are forthcoming!) 
 
         {{< spoiler text="Click for excerpts from 2024 review" >}}
         Put bluntly, Brian rocked my expectations for this first half of 2024. Under his guidance we were able to:
