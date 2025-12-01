@@ -1,0 +1,1935 @@
+<!doctype html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: December 1, 2025 --><html lang="en-us" dir="ltr"
+      data-wc-theme-default="system">
+  
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="generator" content="Hugo Blox Builder 0.2.0" />
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Brian S Denny" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Bite-sized, in-app content replacing FAQs and topic-based help across eFax app and multiple WordPress pages" />
+
+  
+  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/project/efax-wf-content/" />
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="/css/themes/emerald.min.css" />
+  
+
+  
+  
+    
+    <link href="/dist/wc.min.css" rel="stylesheet" />
+  
+
+  
+  
+  
+
+  
+
+  <script>
+     
+    window.hbb = {
+       defaultTheme: document.documentElement.dataset.wcThemeDefault,
+       setDarkTheme: () => {
+        document.documentElement.classList.add("dark");
+        document.documentElement.style.colorScheme = "dark";
+      },
+       setLightTheme: () => {
+        document.documentElement.classList.remove("dark");
+        document.documentElement.style.colorScheme = "light";
+      }
+    }
+
+    console.debug(`Default Hugo Blox Builder theme is ${window.hbb.defaultTheme}`);
+
+    if ("wc-color-theme" in localStorage) {
+      localStorage.getItem("wc-color-theme") === "dark" ? window.hbb.setDarkTheme() : window.hbb.setLightTheme();
+    } else {
+      window.hbb.defaultTheme === "dark" ? window.hbb.setDarkTheme() : window.hbb.setLightTheme();
+      if (window.hbb.defaultTheme === "system") {
+        window.matchMedia("(prefers-color-scheme: dark)").matches ? window.hbb.setDarkTheme() : window.hbb.setLightTheme();
+      }
+    }
+  </script>
+
+  <script>
+    
+    document.addEventListener('DOMContentLoaded', function () {
+      
+      let checkboxes = document.querySelectorAll('li input[type=\'checkbox\'][disabled]');
+      checkboxes.forEach(e => {
+        e.parentElement.parentElement.classList.add('task-list');
+      });
+
+      
+      const liNodes = document.querySelectorAll('.task-list li');
+      liNodes.forEach(nodes => {
+        let textNodes = Array.from(nodes.childNodes).filter(node => node.nodeType === 3 && node.textContent.trim().length > 1);
+        if (textNodes.length > 0) {
+          const span = document.createElement('label');
+          textNodes[0].after(span);  
+          span.appendChild(nodes.querySelector('input[type=\'checkbox\']'));
+          span.appendChild(textNodes[0]);
+        }
+      });
+    });
+  </script>
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+  
+  <link rel="icon" type="image/png" href="/media/icon_hu_d4c728a6c7190745.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_e3369b7b6fc36101.png" />
+
+  <link rel="canonical" href="http://localhost:1313/project/efax-wf-content/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+    <meta property="twitter:site" content="@GetResearchDev" />
+    <meta property="twitter:creator" content="@GetResearchDev" />
+  
+  <meta property="og:site_name" content="Brian S Denny" />
+  <meta property="og:url" content="http://localhost:1313/project/efax-wf-content/" />
+  <meta property="og:title" content="Formulating Microcontent for Redesigned eFax Web App | Brian S Denny" />
+  <meta property="og:description" content="Bite-sized, in-app content replacing FAQs and topic-based help across eFax app and multiple WordPress pages" /><meta property="og:image" content="http://localhost:1313/project/efax-wf-content/featured.jpg" />
+    <meta property="twitter:image" content="http://localhost:1313/project/efax-wf-content/featured.jpg" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2024-03-08T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2024-03-08T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://localhost:1313/project/efax-wf-content/"
+  },
+  "headline": "Formulating Microcontent for Redesigned eFax Web App",
+  
+  "image": [
+    "http://localhost:1313/project/efax-wf-content/featured.jpg"
+  ],
+  
+  "datePublished": "2024-03-08T00:00:00Z",
+  "dateModified": "2024-03-08T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Brian S Denny"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Brian S Denny",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://localhost:1313/media/icon_hu_4177dd9e5585990f.png"
+    }
+  },
+  "description": "Bite-sized, in-app content replacing FAQs and topic-based help across eFax app and multiple WordPress pages"
+}
+</script>
+
+  
+
+  
+
+
+  <title>Formulating Microcontent for Redesigned eFax Web App | Brian S Denny</title>
+
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <style>
+    @font-face {
+      font-family: 'Inter var';
+      font-style: normal;
+      font-weight: 100 900;
+      font-display: swap;
+      src: url(/dist/font/Inter.var.woff2) format(woff2);
+    }
+  </style>
+
+  
+
+  
+  
+
+
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+  
+  
+  
+  
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+  
+  
+  
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+  
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+<link type="text/css" rel="stylesheet" href="/dist/pagefind/pagefind-ui.be766eb419317a14ec769d216e9779bfe8f3737c80e780f4ba0dafb57a41a482.css" integrity="sha256-vnZutBkxehTsdp0hbpd5v&#43;jzc3yA54D0ug2vtXpBpII=" />
+
+
+<script src="/dist/pagefind/pagefind-ui.87693d7c6f2b3b347ce359d0ede762c033419f0a32b22ce508c335a81d841f1b.js" integrity="sha256-h2k9fG8rOzR841nQ7ediwDNBnwoysizlCMM1qB2EHxs="></script>
+
+
+<script>window.hbb.pagefind = {"baseUrl":"/"};</script>
+
+<style>
+  html.dark {
+    --pagefind-ui-primary: #eeeeee;
+    --pagefind-ui-text: #eeeeee;
+    --pagefind-ui-background: #152028;
+    --pagefind-ui-border: #152028;
+    --pagefind-ui-tag: #152028;
+  }
+</style>
+
+<script>
+  window.addEventListener('DOMContentLoaded', (event) => {
+    new PagefindUI({
+      element: "#search",
+      showSubResults: true,
+      baseUrl: window.hbb.pagefind.baseUrl,
+      bundlePath: window.hbb.pagefind.baseUrl + "pagefind/",
+    });
+  });
+  document.addEventListener('DOMContentLoaded', () => {
+    let element = document.getElementById('search');
+    let trigger = document.getElementById('search_toggle');
+
+    if (trigger) {
+      trigger.addEventListener('click', () => {
+        element.classList.toggle('hidden');
+        element.querySelector("input").value = ""
+        element.querySelector("input").focus()
+
+        if (!element.classList.contains('hidden')) {
+          let clear_trigger = document.querySelector('.pagefind-ui__search-clear');
+
+          if (clear_trigger && !clear_trigger.hasAttribute('listenerOnClick')) {
+            clear_trigger.setAttribute('listenerOnClick', 'true');
+
+            clear_trigger.addEventListener('click', () => {
+              element.classList.toggle('hidden');
+            });
+          }
+        }
+
+      });
+    }
+  });
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  <script
+    defer
+    src="/js/hugo-blox-en.min.js"
+    integrity=""
+  ></script>
+
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+      
+      <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+      
+    
+  
+
+
+
+
+</head>
+
+  <body class="dark:bg-hb-dark dark:text-white page-wrapper" id="top">
+    <div id="page-bg"></div>
+    <div class="page-header sticky top-0 z-30">
+      
+      
+      
+        
+        
+        
+          <header id="site-header" class="header">
+  <nav class="navbar px-3 flex justify-left">
+    <div class="order-0 h-100">
+      
+      <a class="navbar-brand" href="/" title="Brian S Denny">
+        Brian S Denny
+      </a>
+    </div>
+    
+    <input id="nav-toggle" type="checkbox" class="hidden" />
+    <label
+      for="nav-toggle"
+      class="order-3 cursor-pointer flex items-center lg:hidden text-dark dark:text-white lg:order-1">
+      <svg id="show-button" class="h-6 fill-current block" viewBox="0 0 20 20">
+        <title>Open Menu</title>
+        <path d="M0 3h20v2H0V3z m0 6h20v2H0V9z m0 6h20v2H0V0z"></path>
+      </svg>
+      <svg id="hide-button" class="h-6 fill-current hidden" viewBox="0 0 20 20">
+        <title>Close Menu</title>
+        <polygon
+          points="11 9 22 9 22 11 11 11 11 22 9 22 9 11 -2 11 -2 9 9 9 9 -2 11 -2"
+          transform="rotate(45 10 10)"></polygon>
+      </svg>
+    </label>
+    
+
+    
+    
+    <ul
+      id="nav-menu"
+      class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8 justify-left
+      ">
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/experience/"
+        >Experience</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/#portfolio"
+        >Portfolio</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/publication/"
+        >Papers &amp; Presentations</a
+        >
+      </li>
+      
+      
+      
+    </ul>
+
+    <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0">
+
+      
+      
+      
+      <button
+        aria-label="search"
+        class="text-black hover:text-primary  inline-block px-3 text-xl dark:text-white"
+        id="search_toggle">
+        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512" fill="currentColor"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg>
+      </button>
+      
+
+      
+      
+      <div class="px-3 text-black hover:text-primary-700 dark:text-white dark:hover:text-primary-300
+            [&.active]:font-bold [&.active]:text-black/90 dark:[&.active]:text-white">
+        <button class="theme-toggle mt-1" accesskey="t" title="appearance">
+          <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+               fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+               stroke-linejoin="round" class="dark:hidden">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+          </svg>
+          <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+               fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+               stroke-linejoin="round" class=" dark:block [&:not(dark)]:hidden">
+            <circle cx="12" cy="12" r="5"></circle>
+            <line x1="12" y1="1" x2="12" y2="3"></line>
+            <line x1="12" y1="21" x2="12" y2="23"></line>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+            <line x1="1" y1="12" x2="3" y2="12"></line>
+            <line x1="21" y1="12" x2="23" y2="12"></line>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+          </svg>
+        </button>
+      </div>
+      
+
+      
+      
+
+      
+      
+    </div>
+  </nav>
+</header>
+
+
+<div id="search" class="hidden p-3"></div>
+
+
+        
+      
+    </div>
+    <div class="page-body  my-10">
+      
+
+
+
+
+
+<div class="mx-auto flex max-w-screen-xl">
+  
+
+
+
+<aside class="hb-sidebar-container max-lg:[transform:translate3d(0,-100%,0)] lg:hidden xl:block">
+  
+  <div class="px-4 pt-4 lg:hidden">
+    
+    
+  </div>
+  <div class="hb-scrollbar lg:h-[calc(100vh-var(--navbar-height))]">
+    <ul class="flex flex-col gap-1 lg:hidden">
+      
+      
+        <li class=""><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/projects/"
+    
+  >Projects
+    </a></li>
+        <li class=""><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/"
+    
+  >Publications
+    </a></li>
+        <li class="open"><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/project/"
+    
+  >Selected Portfolio Projects
+        <span data-hb-sidebar-toggle>
+            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
+        </span>
+    </a><div class="ltr:pr-0 overflow-hidden">
+        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/project/clarity/"
+    
+  >Distilling Existing Content into Potential Email Campaign
+    </a>
+              
+            </li><li class="flex flex-col open"><a
+    class="hb-sidebar-custom-link
+      sidebar-active-item bg-primary-100 font-semibold text-primary-800 dark:bg-primary-300 dark:text-primary-900"
+    href="/project/efax-wf-content/"
+    
+  >Formulating Microcontent for Redesigned eFax Web App
+    </a>
+  
+    <ul class="hb-sidebar-mobile-toc"><li>
+              <a
+                href="#problem"
+                class="hb-docs-link"
+              >Problem</a>
+            </li>
+          <li>
+              <a
+                href="#solution"
+                class="hb-docs-link"
+              >Solution</a>
+            </li>
+          <li>
+              <a
+                href="#results-"
+                class="hb-docs-link"
+              >Results 🤩</a>
+            </li>
+          </ul>
+  
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/project/jquery/"
+    
+  >Identifying jQuery Selectors for Use in Microcontent Display Rules
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/project/jsign-gif/"
+    
+  >Guiding Users Through Unintuitive jSign UI
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/project/jsign-wf-content/"
+    
+  >Converting Traditional User Manual into Microcontent
+    </a>
+              
+            </li></ul>
+      </div></li>
+        <li class=""><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/experience/"
+    
+  >Experience
+    </a></li>
+        <li class=""><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publication/"
+    
+  >Selected Papers &amp; Publications
+        <span data-hb-sidebar-toggle>
+            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
+        </span>
+    </a><div class="ltr:pr-0 overflow-hidden">
+        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publication/conference-paper/"
+    
+  >Keynote Speaker at Inaugural Whatfix User Group, NYC
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publication/journal-article/"
+    
+  >The Warden’s Dilemma as Nested Game: Political Self-Sacrifice, Instrumental Rationality,
+and Third Parties
+    </a>
+              
+            </li></ul>
+      </div></li>
+    </ul>
+
+    <div class="max-xl:hidden h-0 w-64 shrink-0"></div></div>
+
+</aside>
+  
+
+<nav class="hb-toc order-last hidden w-64 shrink-0 xl:block print:hidden px-4" aria-label="table of contents">
+  
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+  <article class="w-full break-words flex min-h-[calc(100vh-var(--navbar-height))] min-w-0 justify-center pb-8 pr-[calc(env(safe-area-inset-right)-1.5rem)]">
+    <main class="w-full min-w-0 max-w-6xl px-6 pt-4 md:px-12">
+
+      
+
+      <h1 class="mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100">Formulating Microcontent for Redesigned eFax Web App</h1>
+
+      <div class="mt-4 mb-16">
+      <div class="text-gray-500 dark:text-gray-300 text-sm flex items-center flex-wrap gap-y-2"><span class="mr-1">Mar 8, 2024</span>
+        
+
+        
+        <span class="mx-1">·</span>
+        <span class="mx-1">
+          5 min read
+        </span>
+        
+        </div>
+
+        <div class="mt-3">
+          
+
+
+
+
+
+        </div>
+      </div>
+
+
+
+      
+      
+      
+      
+      
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <div class="article-header article-container featured-image-wrapper mt-4 mb-16" style="max-width: 720px; max-height: 432px;">
+        <div style="position: relative">
+          <img src="/project/efax-wf-content/featured_hu_c6fb824bb666a9a1.webp" width="720" height="432" alt="" class="featured-image">
+          
+        </div>
+      </div>
+      
+
+      
+      
+
+      <div class="prose prose-slate lg:prose-xl dark:prose-invert">
+        <h2 id="problem">Problem</h2>
+<p>Consensus Cloud Solutions was preparing to release a newly overhauled web application for its flagship brand, eFax, and opted to replace their traditional help documentation system with Whatfix, a third-party digital adoption software overlay. Given the extent of the redesign, all the primary help content had to be rewritten from scratch, and the transition to Whatfix content called for a writing style that was markedly different from what the Technical Documentation team was accustomed to. It also expanded our content capabilities by allowing us to create popups, tool tips, and guided walk-throughs. Additionally, Whatfix provided us access to data reporting on user activity involving both the help content and the underlying application. As the Whatfix Lead, I was responsible for ensuring the timely success of the entire set of overhauled help content, handling content requests from the Product Manager and department leadership, and gleaning insights from the newly available data.</p>
+<h2 id="solution">Solution</h2>
+<p>I first created a list of content pieces based on the program manager’s requirements and each piece’s intended location within the application. I then divided the writing tasks among my team of traditional technical writers and emphasized the basic writing guidelines (see below) introduced during the team&rsquo;s first joint microcontent creation process to help ensure the content was appropriate for the Whatfix format. After the initial content was written, the Technical Writing team engaged in a peer review process to ensure consistency, accuracy, and appropriateness for microcontent formats. I created the content segmentation and display rules that would ensure the popups, guided walk-throughs, and static help content would display when and as intended. I also planned and created dozens of reports and reporting spreadsheets to maximize the data at our disposal. Finally, the content (see below) was implemented in the production environment and made live for all end users.</p>
+<br/>
+<h4 id="basic-article-writing-guidelines" style="color: red">Basic Article Writing Guidelines</h4>
+<ul>
+<li><strong>Write concisely</strong>
+<ul>
+<li>Microcontent calls for concision rather than lengthy precision.</li>
+<li>Assume some UI elements/actions are self-explanatory unless we have contradictory data/feedback</li>
+</ul>
+</li>
+<li><strong>Aim for consistency</strong>
+<ul>
+<li>We will read all articles as a unit before finalizing to ensure consistent terminology, style, etc.</li>
+</ul>
+</li>
+<li><strong>Don&rsquo;t use tables</strong>
+<ul>
+<li>The Help widget isn&rsquo;t wide enough for tables.</li>
+<li>If a topic calls for a table, we may consider attaching the table as a PDF.</li>
+</ul>
+</li>
+<li><strong>Don&rsquo;t use screenshots</strong>
+<ul>
+<li>Users only access the Help widget while viewing the application. This makes screenshots unnecessary.</li>
+</ul>
+</li>
+<li><strong>Don&rsquo;t use complex bullet points</strong>
+<ul>
+<li>Bullet pointed lists should contain only one level (unlike this one, which contains two)</li>
+<li>Avoid inserting a bullet pointed list anywhere in a grammatical sentence unless the final bullet completes the sentence.</li>
+</ul>
+</li>
+<li><strong>Don&rsquo;t reference other articles</strong>
+<ul>
+<li>Whatfix doesn&rsquo;t support clickable links to Whatfix articles or Whatfix content.</li>
+<li>Information needed to contextualize or complete a process/topic should be included in that article whenever possible.</li>
+</ul>
+</li>
+</ul>
+<br/>
+<br/>
+<h4 id="representative-content" style="color: red">Representative Content</h4>
+<br/>
+<p><strong>Popups</strong>
+The first two popups below show to every user during their first two logins and offer users the opportunity to access a guided walkthrough of page functionality. One of those flows is included in its entirety in a later section on this page. The final two popups below were created specifically at the request of Product leadership. Being able to create and implement Whatfix content outside of the company&rsquo;s regular software development lifecycle means I regularly get requests to implement Whatfix solutions to a variety of problems that come to the attention of Product leadership.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="screen reader text" srcset="
+               /project/efax-wf-content/PCAF_hu_93cdc6b8b9f607e2.webp 400w,
+               /project/efax-wf-content/PCAF_hu_924b810a2901a464.webp 760w,
+               /project/efax-wf-content/PCAF_hu_55e634b3ad968a97.webp 1200w"
+               src="/project/efax-wf-content/PCAF_hu_93cdc6b8b9f607e2.webp"
+               width="760"
+               height="404"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="screen reader text" srcset="
+               /project/efax-wf-content/PMCF_hu_5476aa7651cf5afd.webp 400w,
+               /project/efax-wf-content/PMCF_hu_3e20dafdbb84f48f.webp 760w,
+               /project/efax-wf-content/PMCF_hu_c5b8ce0c957de6bf.webp 1200w"
+               src="/project/efax-wf-content/PMCF_hu_5476aa7651cf5afd.webp"
+               width="664"
+               height="346"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="screen reader text" srcset="
+               /project/efax-wf-content/Poldsite_hu_6ebbf107b0bf5545.webp 400w,
+               /project/efax-wf-content/Poldsite_hu_7242fdc9775e2a7d.webp 760w,
+               /project/efax-wf-content/Poldsite_hu_c468af2c92899a2.webp 1200w"
+               src="/project/efax-wf-content/Poldsite_hu_6ebbf107b0bf5545.webp"
+               width="666"
+               height="384"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="screen reader text" srcset="
+               /project/efax-wf-content/Psentfax_hu_45bf3194012fda5d.webp 400w,
+               /project/efax-wf-content/Psentfax_hu_29cf9e1085c6c9e.webp 760w,
+               /project/efax-wf-content/Psentfax_hu_ca2d68c0771e4af4.webp 1200w"
+               src="/project/efax-wf-content/Psentfax_hu_45bf3194012fda5d.webp"
+               width="667"
+               height="379"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="screen reader text" srcset="
+               /project/efax-wf-content/Psuspended_hu_eaa609de1d38f04c.webp 400w,
+               /project/efax-wf-content/Psuspended_hu_528fe5fbe078d094.webp 760w,
+               /project/efax-wf-content/Psuspended_hu_d57362323ea24f69.webp 1200w"
+               src="/project/efax-wf-content/Psuspended_hu_eaa609de1d38f04c.webp"
+               width="661"
+               height="354"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<br/>
+<br/>
+<p><strong>Smart Tips</strong>
+Each of the Smart Tips below was created at the Product Manager&rsquo;s request to address specific user issues or questions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="screen reader text" srcset="
+               /project/efax-wf-content/STattachments_hu_9cd3e9bfeb9957b0.webp 400w,
+               /project/efax-wf-content/STattachments_hu_76d38e891b4f0ca5.webp 760w,
+               /project/efax-wf-content/STattachments_hu_9893456aaf6fe53f.webp 1200w"
+               src="/project/efax-wf-content/STattachments_hu_9cd3e9bfeb9957b0.webp"
+               width="760"
+               height="417"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="screen reader text" srcset="
+               /project/efax-wf-content/STforward_hu_9199e327bc177831.webp 400w,
+               /project/efax-wf-content/STforward_hu_7205fdc400091732.webp 760w,
+               /project/efax-wf-content/STforward_hu_971260c008aabb5b.webp 1200w"
+               src="/project/efax-wf-content/STforward_hu_9199e327bc177831.webp"
+               width="760"
+               height="370"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<br/>
+<br/>
+<p><strong>Beacons</strong>
+The first beacon below was created to address a substantial usability issue on the redesigned site. The Technical Documentation team is currently working on an improved selector-based solution to provide in-the-moment information specifically to users who need it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="screen reader text" srcset="
+               /project/efax-wf-content/Baddrecipient_hu_fdcba7945c8da8be.webp 400w,
+               /project/efax-wf-content/Baddrecipient_hu_5fc5e6dca30dd073.webp 760w,
+               /project/efax-wf-content/Baddrecipient_hu_99222d26d6b7ce4.webp 1200w"
+               src="/project/efax-wf-content/Baddrecipient_hu_fdcba7945c8da8be.webp"
+               width="760"
+               height="142"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="screen reader text" srcset="
+               /project/efax-wf-content/B2_hu_fd93ee953ee29ccf.webp 400w,
+               /project/efax-wf-content/B2_hu_336ca3fb320f7f12.webp 760w,
+               /project/efax-wf-content/B2_hu_7e70c7b87bf0cd4f.webp 1200w"
+               src="/project/efax-wf-content/B2_hu_fd93ee953ee29ccf.webp"
+               width="760"
+               height="234"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<br/>
+<br/>
+<p><strong>Walk-Throughs</strong>
+Each of the images below are part of a sequence of steps that walk users through the process of composing a fax on the redesigned application. Users can either simply read the instructions to become acquainted with the process or follow along and compose their first fax while completing the walk-through. After completing the walk-through, users are presented with a brief survey about their experience. Those results can be found in the Results section below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="screen reader text" srcset="
+               /project/efax-wf-content/FCAF1_hu_9eadb4f9c17829a6.webp 400w,
+               /project/efax-wf-content/FCAF1_hu_70f7e0084ec6f0cf.webp 760w,
+               /project/efax-wf-content/FCAF1_hu_47b6bcfaebc40c27.webp 1200w"
+               src="/project/efax-wf-content/FCAF1_hu_9eadb4f9c17829a6.webp"
+               width="760"
+               height="320"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="screen reader text" srcset="
+               /project/efax-wf-content/FCAF2_hu_29913c7643e3aec2.webp 400w,
+               /project/efax-wf-content/FCAF2_hu_d6a197af5f5aa3cc.webp 760w,
+               /project/efax-wf-content/FCAF2_hu_f0f6bc64f910050f.webp 1200w"
+               src="/project/efax-wf-content/FCAF2_hu_29913c7643e3aec2.webp"
+               width="760"
+               height="612"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="screen reader text" srcset="
+               /project/efax-wf-content/FCAF3_hu_588b143d41f0f89f.webp 400w,
+               /project/efax-wf-content/FCAF3_hu_c8ad9a122883023.webp 760w,
+               /project/efax-wf-content/FCAF3_hu_9fe91b3111815c60.webp 1200w"
+               src="/project/efax-wf-content/FCAF3_hu_588b143d41f0f89f.webp"
+               width="760"
+               height="251"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="screen reader text" srcset="
+               /project/efax-wf-content/FCAF4_hu_be7c593edafe2297.webp 400w,
+               /project/efax-wf-content/FCAF4_hu_70fef9ef94f1f317.webp 760w,
+               /project/efax-wf-content/FCAF4_hu_e9bf1cb01d105469.webp 1200w"
+               src="/project/efax-wf-content/FCAF4_hu_be7c593edafe2297.webp"
+               width="760"
+               height="183"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="screen reader text" srcset="
+               /project/efax-wf-content/FCAF5_hu_57040e7ef1bf80b3.webp 400w,
+               /project/efax-wf-content/FCAF5_hu_fc2e393c26396ea.webp 760w,
+               /project/efax-wf-content/FCAF5_hu_c4e8bb90d7b298d.webp 1200w"
+               src="/project/efax-wf-content/FCAF5_hu_57040e7ef1bf80b3.webp"
+               width="760"
+               height="329"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="screen reader text" srcset="
+               /project/efax-wf-content/FCAF6_hu_a4c8309252bac4f4.webp 400w,
+               /project/efax-wf-content/FCAF6_hu_9ee1cb6f302878bd.webp 760w,
+               /project/efax-wf-content/FCAF6_hu_5704d2708c299bbe.webp 1200w"
+               src="/project/efax-wf-content/FCAF6_hu_a4c8309252bac4f4.webp"
+               width="760"
+               height="676"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<br/>
+<br/>
+<p><strong>Articles</strong>
+There are dozens of microcontent articles available to users, and more are constantly being added. I have created display rules so that specific articles appear by default depending on the page the user is on when they open the Help widget. The Technical Documentation team regularly reports on article metrics to better understand which users are accessing the articles and when.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="screen reader text" srcset="
+               /project/efax-wf-content/Article_hu_27b480f284f6339b.webp 400w,
+               /project/efax-wf-content/Article_hu_94b9ce0c058016e8.webp 760w,
+               /project/efax-wf-content/Article_hu_3ebbae4bc6d98fb3.webp 1200w"
+               src="/project/efax-wf-content/Article_hu_27b480f284f6339b.webp"
+               width="626"
+               height="760"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="screen reader text" srcset="
+               /project/efax-wf-content/Article2_hu_a5dbb322a6563231.webp 400w,
+               /project/efax-wf-content/Article2_hu_5d6e3f9e02cdb48d.webp 760w,
+               /project/efax-wf-content/Article2_hu_11371b5a9c930851.webp 1200w"
+               src="/project/efax-wf-content/Article2_hu_a5dbb322a6563231.webp"
+               width="618"
+               height="760"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="screen reader text" srcset="
+               /project/efax-wf-content/Article3_hu_7b50a25b6ca1c7bd.webp 400w,
+               /project/efax-wf-content/Article3_hu_ee601fa01d053995.webp 760w,
+               /project/efax-wf-content/Article3_hu_c9ce8b79c7bd0df2.webp 1200w"
+               src="/project/efax-wf-content/Article3_hu_7b50a25b6ca1c7bd.webp"
+               width="626"
+               height="760"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="screen reader text" srcset="
+               /project/efax-wf-content/Article4_hu_473e650c37e776ad.webp 400w,
+               /project/efax-wf-content/Article4_hu_79821df09d5c3f17.webp 760w,
+               /project/efax-wf-content/Article4_hu_9fc15346034c2e61.webp 1200w"
+               src="/project/efax-wf-content/Article4_hu_473e650c37e776ad.webp"
+               width="622"
+               height="760"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h2 id="results-">Results 🤩</h2>
+<p>Since the release of the new application, the new content has been viewed by hundreds of thousands of users and both the Product team and the Technical Writing team have gained a variety of valuable insights. For instance, we know that users who accepted the &ldquo;Compose a Fax (Walk-Through)&rdquo; offer from the first popup presented on this page completed the walk-through more frequently than did users who accessed it from the Help widget. We also know that 85% of users who completed the walk-through provided feedback, and 87% of users providing feedback said they found the walk-through helpful.</p>
+      </div>
+
+      
+  <time class="mt-12 mb-8 block text-xs text-gray-500 ltr:text-right rtl:text-left dark:text-gray-400" datetime="2024-03-08T00:00:00.000Z">
+    <span>Last updated on</span>
+    Mar 8, 2024</time>
+
+      <div class="container mx-auto prose prose-slate lg:prose-xl dark:prose-invert mt-5">
+        
+        <div class="max-w-prose print:hidden">
+  
+  
+
+  
+
+
+  
+<section class="flex flex-row flex-wrap justify-center pt-4 text-xl">
+  
+
+  
+  
+  
+  
+  
+  
+  <a
+    target="_blank" rel="noopener"
+    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+    href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fproject%2Fefax-wf-content%2F&amp;text=Formulating&#43;Microcontent&#43;for&#43;Redesigned&#43;eFax&#43;Web&#43;App"
+    title="X"
+    aria-label="X"
+    id="share-link-x"
+  >
+    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg>
+  </a>
+  
+
+  
+  
+  
+  
+  
+  
+  <a
+    target="_blank" rel="noopener"
+    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+    href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fproject%2Fefax-wf-content%2F&amp;t=Formulating&#43;Microcontent&#43;for&#43;Redesigned&#43;eFax&#43;Web&#43;App"
+    title="Facebook"
+    aria-label="Facebook"
+    id="share-link-facebook"
+  >
+    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12c0 4.84 3.44 8.87 8 9.8V15H8v-3h2V9.5C10 7.57 11.57 6 13.5 6H16v3h-2c-.55 0-1 .45-1 1v2h3v3h-3v6.95c5.05-.5 9-4.76 9-9.95z"/></svg>
+  </a>
+  
+
+  
+  
+  
+  
+  
+  
+    
+  
+  <a
+    target="_blank" rel="noopener"
+    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+    href="mailto:?subject=Formulating%20Microcontent%20for%20Redesigned%20eFax%20Web%20App&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fproject%2Fefax-wf-content%2F"
+    title="Email"
+    aria-label="Email"
+    id="share-link-email"
+  >
+    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.5" d="M16.5 12a4.5 4.5 0 1 1-9 0a4.5 4.5 0 0 1 9 0Zm0 0c0 1.657 1.007 3 2.25 3S21 13.657 21 12a9 9 0 1 0-2.636 6.364M16.5 12V8.25"/></svg>
+  </a>
+  
+
+  
+  
+  
+  
+  
+  
+  <a
+    target="_blank" rel="noopener"
+    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+    href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fproject%2Fefax-wf-content%2F&amp;title=Formulating&#43;Microcontent&#43;for&#43;Redesigned&#43;eFax&#43;Web&#43;App"
+    title="LinkedIn"
+    aria-label="LinkedIn"
+    id="share-link-linkedin"
+  >
+    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path fill="currentColor" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+  </a>
+  
+
+  
+  
+  
+  
+  
+  
+  <a
+    target="_blank" rel="noopener"
+    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+    href="whatsapp://send?text=Formulating&#43;Microcontent&#43;for&#43;Redesigned&#43;eFax&#43;Web&#43;App%20http%3A%2F%2Flocalhost%3A1313%2Fproject%2Fefax-wf-content%2F"
+    title="WhatsApp"
+    aria-label="WhatsApp"
+    id="share-link-whatsapp"
+  >
+    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="currentColor"><path d="m187.58 144.84-32-16a8 8 0 0 0-8 .5l-14.69 9.8a40.55 40.55 0 0 1-16-16l9.8-14.69a8 8 0 0 0 .5-8l-16-32A8 8 0 0 0 104 64a40 40 0 0 0-40 40 88.1 88.1 0 0 0 88 88 40 40 0 0 0 40-40 8 8 0 0 0-4.42-7.16ZM152 176a72.08 72.08 0 0 1-72-72 24 24 0 0 1 19.29-23.54l11.48 23L101 118a8 8 0 0 0-.73 7.51 56.47 56.47 0 0 0 30.15 30.15A8 8 0 0 0 138 155l14.61-9.74 23 11.48A24 24 0 0 1 152 176ZM128 24a104 104 0 0 0-91.82 152.88l-11.35 34.05a16 16 0 0 0 20.24 20.24l34.05-11.35A104 104 0 1 0 128 24Zm0 192a87.87 87.87 0 0 1-44.06-11.81 8 8 0 0 0-6.54-.67L40 216l12.47-37.4a8 8 0 0 0-.66-6.54A88 88 0 1 1 128 216Z"/></svg>
+  </a>
+  
+</section>
+
+
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+    
+  
+  
+  
+
+<div class="flex pt-12 pb-4">
+  
+  
+  <img
+    class="mr-4 h-24 w-24 rounded-full"
+    width="96"
+    height="96"
+    alt="Brian S Denny"
+  src="/author/brian-s-denny/avatar_hu_c947ab446d50e6c4.jpg"
+  loading="lazy"
+  />
+  
+  <div class="place-self-center">
+    <div class="text-[0.6rem] uppercase leading-3 text-neutral-500 dark:text-neutral-400">
+      Authors
+    </div>
+    <div class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300">
+      <a href="http://localhost:1313/" class="no-underline">
+      Brian S Denny
+      </a>
+    </div>
+
+    
+    <div class="text-sm font-bold text-neutral-700 dark:text-neutral-300">
+    Senior Technical Writer &amp; Whatfix Lead
+    </div>
+    
+
+
+    
+
+    <div class="text-2xl sm:text-lg pt-1">
+
+      
+<div class="flex flex-wrap text-neutral-500 dark:text-neutral-300">
+  
+    
+    
+    
+    
+    <a
+      class="pr-2 transition-transform hover:scale-125 hover:text-primary-700 dark:hover:text-primary-400"
+      style="will-change:transform;"
+      href="mailto:briansdenny@gmail.com"
+      
+      aria-label="Envelope"
+    ><svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75"/></svg></a>
+  
+    
+    
+    
+    
+      
+    
+    <a
+      class="pr-2 transition-transform hover:scale-125 hover:text-primary-700 dark:hover:text-primary-400"
+      style="will-change:transform;"
+      href="https://www.linkedin.com/in/brian-denny-33b67a3b/"
+      target="_blank" rel="noopener" rel="me noopener noreferrer"
+      aria-label="Brands/Linkedin"
+    ><svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path fill="currentColor" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg></a>
+  
+</div>
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+  
+    
+    
+    
+      
+      
+    
+<div class="pt-1 no-prose w-full">
+  <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
+  <div class="flex flex-col md:flex-row flex-nowrap justify-between gap-5 pt-2">
+    <div class="">
+      
+        <a class="group flex no-underline" href="/project/clarity/">
+          <span
+            class="mt-[-0.3rem] me-2 text-neutral-700 transition-transform group-hover:-translate-x-[2px] group-hover:text-primary-600 dark:text-neutral dark:group-hover:text-primary-400"
+          ><span class="ltr:inline rtl:hidden">&larr;</span></span>
+          <span class="flex flex-col">
+            <span
+              class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+            >Distilling Existing Content into Potential Email Campaign</span>
+            <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+              
+                Apr 24, 2024
+              
+            </span>
+          </span>
+        </a>
+      
+    </div>
+    <div class="">
+      
+        <a class="group flex text-right no-underline" href="/project/jquery/">
+          <span class="flex flex-col">
+            <span
+              class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+            >Identifying jQuery Selectors for Use in Microcontent Display Rules</span
+            >
+            <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+              
+                Jan 1, 2024
+              
+            </span>
+          </span>
+          <span
+            class="mt-[-0.3rem] ms-2 text-neutral-700 transition-transform group-hover:-translate-x-[2px] group-hover:text-primary-600 dark:text-neutral dark:group-hover:text-primary-400"
+          ><span class="ltr:inline">&rarr;</span></span>
+        </a>
+      
+    </div>
+  </div>
+</div>
+
+
+
+  
+
+
+  
+
+
+
+</div>
+
+      </div>
+
+    </main>
+  </article>
+</div>
+
+    </div>
+    <div class="page-footer">
+      <footer class="container mx-auto flex flex-col justify-items-center text-sm leading-6 mt-24 mb-4 text-slate-700 dark:text-slate-200">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by text-center">
+    © 2025 Me, Brian S Denny. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>. Background by <a href="https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/" target="_blank" rel="noopener">SVGBackgrounds.com</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+
+  <p class="powered-by text-center">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+
+</footer>
+
+    </div>
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>
