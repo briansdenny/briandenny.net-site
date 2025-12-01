@@ -9,7 +9,7 @@ summary: Snappy and relatable email verbiage to quickly entice prospective Clari
 
 
 ## Problem
-Product leadership at Consensus Cloud Solutions wanted to shape an upcoming sales campaign but found the existing marketing material for its Clarity product both too complex and too vague to entice potential customers. Take a peek at the [sales sheet](https://drive.google.com/file/d/1to2X4P_ulOAjNJ-iDREY288haDhPOzyb/view) and [data sheet](https://drive.google.com/file/d/1QUnaQ8GHml8dWH7NMDoTc-_OpoctIPxd/view). The Associate Director of Documentation and I were asked to write several shorter, more compelling marketing pieces for potential inclusion in a future email campaign. 
+Product leadership at Consensus Cloud Solutions wanted to shape an upcoming sales campaign but found the existing marketing material for its Clarity product both too complex and too vague to entice potential customers. Take a peek at the [sales sheet](uploads/ClaritySalesSheet.pdf) and [data sheet](https://drive.google.com/file/d/1QUnaQ8GHml8dWH7NMDoTc-_OpoctIPxd/view). The Associate Director of Documentation and I were asked to write several shorter, more compelling marketing pieces for potential inclusion in a future email campaign. 
 
 ## Solution
 After reviewing the existing marketing material, I devised a list of questions to ensure I sufficiently understood the product. After gathering responses to those questions from SMEs in the Product department, The Associate Director and I began writing independently. I created two **concise and catchy pieces** (see below) that emphasized the brand name and functionality.
