@@ -2,6 +2,8 @@
 title: 'Projects'
 date: 2024-05-19
 type: landing
+design:
+  spacing: '5rem'
 ---
 
 <div id="password-screen">
@@ -12,9 +14,17 @@ type: landing
 </div>
 
 <div id="protected-content" style="display: none;">
-  <h2>Project Access Granted</h2>
-  <p>You’ve unlocked the portfolio content. 🎉</p>
-  <!-- You can list links or tiles here manually or with a partial later -->
+  <section>
+    <h2>Selected Portfolio Projects</h2>
+
+    {{< collection
+      title="Selected Portfolio Projects"
+      view="article-grid"
+      folders="project"
+      columns="3"
+    >}}
+
+  </section>
 </div>
 
 <script>
