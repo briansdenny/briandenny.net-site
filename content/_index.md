@@ -87,17 +87,18 @@ sections:
 
     design:
       columns: '1'
-  - block: collection
-    id: portfolio
-    content:
-      title: Selected Portfolio Projects
-      filters:
-        folders:
-          - project
-        featured_only: false
-    design:
-      view: article-grid
-      columns: 3
+  # I hashed this out to remove it from the main page, so the password protection would work
+  #- block: collection
+  #  id: portfolio
+  #  content:
+  #    title: Selected Portfolio Projects
+  #    filters:
+  #      folders:
+  #        - project
+  #      featured_only: false
+  #  design:
+  #    view: article-grid
+  #    columns: 3
  
   # unhash this when I'm ready to bring the news back
   # - block: collection
