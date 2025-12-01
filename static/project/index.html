@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Project Access</title>
+  <style>
+    body { font-family: sans-serif; text-align: center; margin-top: 100px; }
+    input { padding: 8px; margin: 5px; }
+  </style>
+</head>
+<body>
+  <h2>Enter Password to View Projects</h2>
+  <input type="password" id="password" placeholder="Password" />
+  <button onclick="checkPassword()">Enter</button>
+  <p id="error" style="color:red;"></p>
+
+  <script>
+    function checkPassword() {
+      const input = document.getElementById('password').value;
+      const correctPassword = 'secretshowcase'; // 👈 Change this!
+      if (input === correctPassword) {
+        window.location.href = '/project/unlocked/';
+      } else {
+        document.getElementById('error').textContent = 'Incorrect password';
+      }
+    }
+  </script>
+</body>
+</html>
