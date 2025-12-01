@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Portfolio Access</title>
+  <style>
+    body { font-family: sans-serif; text-align: center; margin-top: 100px; }
+    input { padding: 8px; margin: 5px; }
+  </style>
+</head>
+<body>
+  <h2>Enter Password to View Portfolio</h2>
+  <input type="password" id="password" placeholder="Password" />
+  <button onclick="checkPassword()">Enter</button>
+  <p id="error" style="color:red;"></p>
+
+  <script>
+    function checkPassword() {
+      const input = document.getElementById('password').value;
+      const correctPassword = 'classifiedish'; // 👈 Use your chosen password here
+      if (input === correctPassword) {
+        window.location.href = '/portfolio/unlocked'; // 👈 This is your real portfolio URL
+      } else {
+        document.getElementById('error').textContent = 'Incorrect password';
+      }
+    }
+  </script>
+</body>
+</html>
+

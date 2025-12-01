@@ -9,7 +9,7 @@ summary: Snappy and relatable email verbiage to quickly entice prospective Clari
 
 
 ## Problem
-Product leadership at Consensus Cloud Solutions wanted to shape an upcoming sales campaign but found the existing marketing material for its Clarity product both too complex and too vague to entice potential customers. Take a peek at the [sales sheet](/uploads/ClaritySalesSheet.pdf) and [data sheet](/uploads/ClarityDataSheet.pdf). Take a peek at the <a href="/uploads/ClaritySalesSheet.pdf" target="_blank" rel="noopener">sales sheet</a> and <a href="/uploads/ClarityDataSheet.pdf" target="_blank" rel="noopener">data sheet</a>.
+Product leadership at Consensus Cloud Solutions wanted to shape an upcoming sales campaign but found the existing marketing material for its Clarity product both too complex and too vague to entice potential customers. Take a peek at the <a href="/uploads/ClaritySalesSheet.pdf" target="_blank" rel="noopener">sales sheet</a> and <a href="/uploads/ClarityDataSheet.pdf" target="_blank" rel="noopener">data sheet</a>.
 The Associate Director of Documentation and I were asked to write several shorter, more compelling marketing pieces for potential inclusion in a future email campaign. 
 
 ## Solution
