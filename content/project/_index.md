@@ -1,7 +1,4 @@
 ---
-title: Portfolio
-layout: plain-protected
+title: Selected Portfolio Projects
+view: article-grid
 ---
-
-<!-- Leave body empty. Projects will be added via layout. -->
-
