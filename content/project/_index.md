@@ -2,6 +2,7 @@
 title: 'Projects'
 date: 2024-05-19
 type: landing
+
 design:
   spacing: '5rem'
 ---
@@ -29,7 +30,7 @@ design:
 
 <script>
   function checkPassword() {
-    const correct = "secretshowcase";
+    const correct = "secretshowcase"; // 👉 Change this to your password
     const input = document.getElementById("pw").value;
     if (input === correct) {
       document.getElementById("password-screen").style.display = "none";
@@ -39,4 +40,3 @@ design:
     }
   }
 </script>
-
