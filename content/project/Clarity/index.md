@@ -9,7 +9,8 @@ summary: Snappy and relatable email verbiage to quickly entice prospective Clari
 
 
 ## Problem
-Product leadership at Consensus Cloud Solutions wanted to shape an upcoming sales campaign but found the existing marketing material for its Clarity product both too complex and too vague to entice potential customers. Take a peek at the [sales sheet](/uploads/ClaritySalesSheet.pdf) and [data sheet](/uploads/ClarityDataSheet.pdf). The Associate Director of Documentation and I were asked to write several shorter, more compelling marketing pieces for potential inclusion in a future email campaign. 
+Product leadership at Consensus Cloud Solutions wanted to shape an upcoming sales campaign but found the existing marketing material for its Clarity product both too complex and too vague to entice potential customers. Take a peek at the [sales sheet](/uploads/ClaritySalesSheet.pdf) and [data sheet](/uploads/ClarityDataSheet.pdf). Take a peek at the <a href="/uploads/ClaritySalesSheet.pdf" target="_blank" rel="noopener">sales sheet</a> and <a href="/uploads/ClarityDataSheet.pdf" target="_blank" rel="noopener">data sheet</a>.
+The Associate Director of Documentation and I were asked to write several shorter, more compelling marketing pieces for potential inclusion in a future email campaign. 
 
 ## Solution
 After reviewing the existing marketing material, I devised a list of questions to ensure I sufficiently understood the product. After gathering responses to those questions from SMEs in the Product department, The Associate Director and I began writing independently. I created two **concise and catchy pieces** (see below) that emphasized the brand name and functionality.
@@ -32,7 +33,7 @@ Clarity reads your incoming faxes, identifies information that belongs in your p
 - **Reduce burnout** from unnecessary tasks. Clarity deciphers complex and hard-to-read documents quickly, so you have more time to spend with patients
 - **Improve patient satisfaction** by doing more of what you do best. Clarity ensures your records are complete and accurate, allowing you to provide patients with better care, shorter wait times, and quicker referrals. And this leads to faster recovery and optimal outcomes.
 ### Learn more about Clarity
-Any EHR system with patient matching and direct messaging can take advantage of Clarity’s cutting-edge solutions. [Find out how Clarity is a clear match](https://www.consensus.com/request-a-demo/) for your practice, and start automating your patient records today.
+Any EHR system with patient matching and direct messaging can take advantage of Clarity’s cutting-edge solutions. [Find out how Clarity is a clear match] for your practice, and start automating your patient records today.
 
 <br/>
 
@@ -52,7 +53,7 @@ Clarity connects to your eFax account, identifies information in your incoming f
 - **Reduce burnout** - Clarity uses natural language processing to quickly decipher complex and hard-to-read documents. It even works on hand-written forms and multi-patient documents. 
 - **Improve patient satisfaction** - Using Clarity to process your incoming faxes allows you to provide patients with better care, shorter wait times, and quicker referrals. And this leads to faster recovery and optimal outcomes.
 ### Learn more about Clarity
-Any EHR system with patient matching and direct messaging can take advantage of Clarity’s cutting-edge solutions. [Find out how Clarity is a clear match](https://www.consensus.com/request-a-demo/) for your practice, and start automating your patient records today.
+Any EHR system with patient matching and direct messaging can take advantage of Clarity’s cutting-edge solutions. [Find out how Clarity is a clear match] for your practice, and start automating your patient records today.
 
 ## Results 🤩
 As is sometimes the case with projects I work on for other teams or departments, I have little insight into the final results. I do know, however, that the revised content has been shared with the Manager of SEO Content and the Senior Director of Product Marketing.
