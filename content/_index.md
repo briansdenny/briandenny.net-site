@@ -35,7 +35,7 @@ sections:
       title: 'A Little More About Me'
       subtitle: ''
       text: |-
-       My experience writing, editing, researching, and teaching has refined my ability to analyze tough problems; ask the right questions; identify and implement creative, sustainable, and scalable solutions; and communicate my findings to stakeholders at all levels.
+       My experience in research, writing, editing, and education has allowed me to develop a personal toolkit for solving complex problems. I ask the right questions, dig into data (both quantitative and qualitative), and translate insights into clear communications, actionable strategies, and systems that work. I thrive on projects that balance rigor and creativity while making a meaningful impact.
         
     design:
       columns: '1'

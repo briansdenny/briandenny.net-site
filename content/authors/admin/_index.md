@@ -212,7 +212,7 @@ languages:
 
 ## About Me
 
-Hello! I'm a writer and editor with formal training in research methodologies (quantitative and qualitative) and many years of experience teaching and coaching adults. I'm naturally inquisitive, so I enjoy learning and am always eager to take on new challenges. Poke around for a bit, and reach out if you'd like to connect. 😃
+👋 Hi, I'm Brian! I'm a writer, editor, and researcher with a track record of leading projects, developing people, and making complex ideas clear and actionable. My background in education sharpened my ability to mentor others, think strategically, and adapt quickly to complex challenges. I'm naturally curious and energized by challenging work. So take a look around and feel free to reach out! 😃
 
 
 
