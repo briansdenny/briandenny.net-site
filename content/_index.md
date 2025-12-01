@@ -35,7 +35,7 @@ sections:
       title: 'A Little More About Me'
       subtitle: ''
       text: |-
-       My experience in research, writing, editing, and education has allowed me to develop a personal toolkit for solving complex problems. I ask the right questions, dig into data (both quantitative and qualitative), and translate insights into clear communications, actionable strategies, and systems that work. I thrive on projects that balance rigor and creativity while making a meaningful impact.
+       My experience in writing, editing, research, and education has helped me develop a personal toolkit for solving complex problems: asking the right questions, quickly learning what I need to know, making sense of the data (quantitative and qualitative), and turning insights into clear communications, actionable strategies, and systems that work. I thrive on projects that balance rigor and creativity while making a meaningful impact.
         
     design:
       columns: '1'
