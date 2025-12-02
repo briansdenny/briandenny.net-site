@@ -21,8 +21,9 @@ Both versions aimed to be:
 - Framed around healthcare professionals’ pain points  
 
 ### ✍️ Sample 1  
-### _Clarity helps me get back to helping patients_  
-#### **Skip data entry and let Clarity automatically convert your documents into patient records**
+> _Clarity helps me get back to helping patients_  
+<br>
+> **Skip data entry and let Clarity automatically convert your documents into patient records**
 
 **Less paperwork, more healthcare**  
 Clarity reads your incoming faxes, identifies what belongs in your patient records, and pre-fills your EHR — even for handwritten or multi-patient forms.
@@ -38,9 +39,9 @@ Clarity reads your incoming faxes, identifies what belongs in your patient recor
 ---
 
 ### ✍️ Sample 2  
-> _Clarity takes care of data entry, so you can take care of people_  
+> **Clarity takes care of data entry, so you can take care of people**  
 <br>
-> **Let Clarity convert your incoming faxes into EHR records — automatically and securely**
+> _Let Clarity convert your incoming faxes into EHR records — automatically and securely_
 
 **Less paperwork, more healthcare**  
 Clarity connects to your eFax account, pulls patient data from faxes, and inserts it into your EHR system — all while meeting the highest cybersecurity standards.
