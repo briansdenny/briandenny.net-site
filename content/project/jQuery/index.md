@@ -1,18 +1,38 @@
 ---
-title: Identifying jQuery Selectors for Use in Microcontent Display Rules
-date: 2024-01-01
-tags:
-  
-summary: Internal teaching document with instructions for identifying jQuery selectors and applying them to Whatfix display rules
+title: Enabling Writers to Use jQuery Selectors for Targeted Whatfix Content  
+date: 2024-01-01  
+tags:  
+summary: Created training to help tech writers identify HTML elements and use selectors in Whatfix display rules  
 ---
 
-## Problem
-As Senior Technical Writer and Whatfix Lead at Consensus Cloud Solutions, part of my role entails transitioning a small group of technical writers away from traditional, single-source authoring and towards the regular design, creation, management, and analysis of in-app, just-in-time digital adoption microcontent. One aspect of this transition involves teaching my team how to utilize the web apps' underlying elements to customize the digital adoption content. This involves identifying HTML elements through jQuery or CSS selectors and including the selectors in Whatfix display rules. Given that my team has no prior involvement in web development and we work asynchronously, I needed to create a training document that my team could reference at their convenience. I also wanted to familiarize my team with the very basics of reading HTML code. 
+## Overview  
+To empower a non-technical documentation team to design smarter in-app help content, I created a training resource on identifying jQuery selectors. This helped the team take ownership of Whatfix’s display logic and better understand how digital adoption content works under the hood.
 
-## Solution
-I compiled [these step-by-step instructions](https://docs.google.com/document/d/1FHIZ73Q7WXiBeULPJdtQnU52fh-oQejYHUzkf4KBCPM/edit?usp=sharing) as a reference sheet my team could use to begin exploring the process of identifying jQuery selectors. While these instructions are not necessarily the easiest way to identify selectors, I intentionally wrote them so my team would gain more hands-on experience reading HTML code. 
+## 🧩 The Problem  
+As Senior Technical Writer and Whatfix Lead at Consensus Cloud Solutions, I’m responsible for helping our writers transition from traditional documentation to embedded, just-in-time microcontent.  
 
-## Results 🤩
-These instructions, along with a series of workshops where I guided my team through the process, have resulted in every member of the Technical Writing team at Consensus increasing their capacity to both ideate Whatfix content that relies on selectors and independently identify selectors for use in that content. I have since been able to delegate selector identification tasks to members of the team. Their increased capacity also means they more fully understand how Whatfix content works. 
+One roadblock: **customizing Whatfix content display** requires identifying specific HTML elements using jQuery or CSS selectors — something our team had no prior experience with. We work asynchronously, so I needed to build a self-guided resource that:
 
-<!--more-->
+- Taught basic selector identification  
+- Introduced the fundamentals of reading HTML  
+- Enabled team members to work independently on display rules  
+
+## 💡 My Solution  
+I created a detailed, **step-by-step guide** that walks writers through:
+
+- Opening developer tools  
+- Reading HTML and identifying elements  
+- Writing and testing jQuery selectors  
+- Applying those selectors in Whatfix display rules  
+
+[View the guide here →](https://docs.google.com/document/d/1FHIZ73Q7WXiBeULPJdtQnU52fh-oQejYHUzkf4KBCPM/edit?usp=sharing)
+
+The guide was intentionally written to **slow down the process**, giving writers hands-on experience rather than offering a shortcut. I reinforced this with a series of live workshops.
+
+## 📈 Results  
+- Every team member gained the ability to **identify and use selectors** in Whatfix independently  
+- I successfully **delegated selector-related tasks** across the team  
+- Writers now better understand the **structure and delivery logic** of Whatfix content, allowing for more advanced content planning
+
+This project demonstrates my ability to teach technical concepts clearly, create scalable internal training, and lead cross-skill capability building within a documentation team.
+
