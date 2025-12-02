@@ -30,16 +30,16 @@ I managed the end-to-end microcontent implementation, including:
 
 ### ✍️ Writing Guidelines (Applied Across All Content)
 
-- Keep content concise and scannable  
-- No screenshots, tables, or nested lists (due to space constraints)  
-- Don’t reference other Whatfix articles; instead, write each piece to stand alone  
+- Keep writing concise (assume UI elements are partially self-explanatory)  
+- Avoid screenshots, tables, or nested lists (due to space constraints)  
+- Don't reference other content pieces or topics. Instead, write each content piece to stand alone.  
 
 ---
 
 ## 🧪 Representative Content
 
 ### 📢 Popups  
-Targeted prompts on first login and at key pain points. Some include links to guided walk-throughs.  
+Targeted prompts on first, second, and third login and at key pain points. Some include links to guided walk-throughs.  
 ![screen reader text](PCAF.png)  
 ![screen reader text](PMCF.jpg)  
 ![screen reader text](Poldsite.jpg)  
