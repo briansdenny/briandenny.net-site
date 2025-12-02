@@ -1,22 +1,30 @@
 ---
-title: Guiding Users Through Unintuitive jSign UI
-date: 2023-06-22
-toc: false
-tags:
- 
-summary: Visual demonstration of vital (yet clunky) web app functionality
- 
-
+title: Solving User Confusion in jSign's Multi-Document Workflow  
+date: 2023-06-22  
+toc: false  
+tags:  
+summary: UX microcontent fix using a targeted GIF popup reduced support calls and improved user clarity  
 ---
 
-## Problem
-The first major update to a document signing website recently acquired by Consensus Cloud Solutions allowed users to send multiple documents at once, a sorely needed feature. However, immediately following the update, the customer support team began receiving numerous calls from customers who could not locate their additional documents. On the document preparation page, users wanting to access additional documents had to click on the document's title within the rightmost pane, but the additional document titles were housed beneath the already expanded pages of the initial document. Given the time and effort that would be required for the developers to correct this design issue, Product leadership instead looked to Whatfix for a solution.   
+## Overview  
+When a major feature update in jSign led to user confusion and increased support calls, I created a targeted, visual microcontent solution using Whatfix. The intervention improved user clarity, reduced support requests, and showcased my strength in user-centered documentation.
 
-## Solution
-I designed and created a **popup with an embedded GIF** (see below) showing users exactly where their additional documents were located. I used a GIF rather than written instructions because I understood that it would more quickly and easily inform users and save them from having to read, interpret, and apply precise instructions describing an already cluttered user interface. I designed the GIF and created it in Camtasia, using several visual effects to make it easier for users to follow along. I constructed the popup in Whatfix using jQuery selectors that identify users who are actually sending multiple documents to ensure only those users are shown the popup and only at the right time. I also included a simple feedback mechanism on the popup to help me evaluate its helpfulness. 
+## 🧩 The Problem  
+A newly added multi-document sending feature confused users, who couldn’t find their additional uploaded documents. On the document preparation screen, additional documents were hidden behind the expanded pages of the first document — a UI flaw difficult to fix with dev resources. Support tickets spiked.
 
-![screen reader text](jSignGIF.gif)
+## 💡 My Solution  
+To quickly reduce confusion, I designed a **GIF-based popup** that visually guided users to their hidden documents:
 
-## Results 🤩
-More than 80% of users who were shown the popup during the first half of 2024 said they found it helpful.  According to the product manager, the release of this popup coincided with a marked reduction in calls to CS about this particular user pain point.
-<!--more-->
+- Created the GIF in **Camtasia** using clear visual cues and pacing  
+- Embedded the GIF in a **targeted Whatfix popup**, shown only to users with multiple documents using **jQuery selectors**  
+- Avoided long-form text in favor of quick visual learning  
+- Added a simple feedback prompt to measure effectiveness  
+
+![Visual guide for jSign UI issue](jSignGIF.gif)
+
+## 📈 Results  
+- **80% of users** shown the popup in early 2024 rated it “helpful”  
+- Coincided with a **significant drop in related support calls**, according to the Product Manager  
+
+This project demonstrates my ability to blend **user empathy**, **tool fluency**, and **strategic content thinking** to address real UX problems with light-lift, high-impact documentation.
+
