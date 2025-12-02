@@ -63,8 +63,11 @@ Used to highlight underused features or direct attention to key tasks.
 ---
 
 ### 🧭 Walk-Throughs  
-Multi-step guides helping users complete key tasks like sending a fax.  
+Multi-step guides helping users complete key tasks like sending a fax. The GIF below shows the full walk-through users can complete when composing a fax for the first time. It demonstrates the interactive flow as users follow in-app instructions.
+
 ![screen reader text](ComposeFax.gif)
+For those who prefer to read each step, individual images of each screen in the sequence are provided below the GIF.
+
 ![screen reader text](FCAF1.png)  
 ![screen reader text](FCAF2.png)  
 ![screen reader text](FCAF3.png)  
