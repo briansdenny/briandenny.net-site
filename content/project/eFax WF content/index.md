@@ -64,6 +64,7 @@ Used to highlight underused features or direct attention to key tasks.
 
 ### 🧭 Walk-Throughs  
 Multi-step guides helping users complete key tasks like sending a fax.  
+![screen reader text](ComposeFax.gif)
 ![screen reader text](FCAF1.png)  
 ![screen reader text](FCAF2.png)  
 ![screen reader text](FCAF3.png)  

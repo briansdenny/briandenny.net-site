@@ -29,7 +29,7 @@ I organized and led our first teamwide microcontent authoring initiative:
 ### ✍️ High-Level Microcontent Guidelines Highlights
 
 - Keep writing concise (assume UI elements are partially self-explanatory)  
-- Avoid screenshots, tables, or nested bullet points (widget space constraints)  
+- No screenshots, tables, or nested lists (due to space constraints)  
 - Include link to original articles (offer fallback for users who want it)  
 
 {{% callout note %}}  
