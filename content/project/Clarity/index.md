@@ -21,20 +21,23 @@ Both versions aimed to be:
 - Framed around healthcare professionals’ pain points  
 
 ### ✍️ Sample 1  
-> **Clarity helps me get back to helping patients**
+<blockquote>
+<strong>Clarity helps me get back to helping patients</strong><br>
 <br>
-> _Skip data entry and let Clarity automatically convert your documents into patient records_
+<em>Skip data entry and let Clarity automatically convert your documents into patient records</em>
+</blockquote>
 
 **Less paperwork, more healthcare**  
-Clarity reads your incoming faxes, identifies what belongs in your patient records, and pre-fills your EHR — even for handwritten or multi-patient forms.
+Clarity reads your incoming faxes, identifies information that belongs in your patient records, and pre-populates the relevant EHR fields. It even works on hand-written forms and multi-patient documents.
 
 **The choice is clear**  
-- **Eliminate data entry** with AI  
-- **Increase efficiency** through learning-based automation  
-- **Reduce burnout** from repetitive tasks  
-- **Improve patient satisfaction** by speeding up care
+- **Eliminate data entry** with artificial intelligence. Clarity takes patient information from documents you receive and puts it where it belongs in your EHR system.
+- **Increase efficiency** through machine learning. Clarity learns your specific processes and gets better over time, but you always remain in control.
+- **Reduce burnout** from unnecessary tasks. Clarity deciphers complex and hard-to-read documents quickly, so you have more time to spend with patients.
+- **Improve patient satisfaction** by doing more of what you do best. Clarity ensures your records are complete and accurate, allowing you to provide patients with better care, shorter wait times, and quicker referrals. And this leads to faster recovery and optimal outcomes.
 
-[Find out how Clarity is a clear match](#)
+**Learn more about Clarity**
+Any EHR system with patient matching and direct messaging can take advantage of Clarity’s cutting-edge solutions. Find out how Clarity is a clear match for your practice, and start automating your patient records today
 
 ---
 
@@ -46,15 +49,16 @@ Clarity reads your incoming faxes, identifies what belongs in your patient recor
 </blockquote>
 
 **Less paperwork, more healthcare**  
-Clarity connects to your eFax account, pulls patient data from faxes, and inserts it into your EHR system — all while meeting the highest cybersecurity standards.
+Clarity connects to your eFax account, identifies information in your incoming faxes that belongs in patient records, and pre-populates the relevant fields in your EHR system. And with a HIPPA-compliant and HITRUST-certified eFax account, you can rest assured that Clarity’s cutting-edge solutions meet the strongest cybersecurity demands of our digital world.
 
 **The choice is clear**  
-- **Eliminate data entry** with AI  
-- **Increase efficiency** without losing control  
-- **Reduce burnout** from paperwork overload  
-- **Improve patient satisfaction** with faster, more accurate care
+- **Eliminate data entry** - Clarity uses artificial intelligence to automatically take faxes you receive and convert them into EHR patient records.
+- **Increase efficiency** - Clarity uses machine learning to embrace your specific processes and maximize accuracy. But you are always in control.
+- **Reduce burnout** - Clarity uses natural language processing to quickly decipher complex and hard-to-read documents. It even works on hand-written forms and multi-patient documents.
+- **Improve patient satisfaction** - Using Clarity to process your incoming faxes allows you to provide patients with better care, shorter wait times, and quicker referrals. And this leads to faster recovery and optimal outcomes.
 
-[Learn how Clarity fits your workflow](#)
+**Learn more about Clarity**
+Any EHR system with patient matching and direct messaging can take advantage of Clarity’s cutting-edge solutions. Find out how Clarity is a clear match for your practice, and start automating your patient records today.
 
 ---
 
