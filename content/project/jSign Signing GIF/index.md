@@ -1,6 +1,6 @@
 ---
 title: Visual Guide for jSign’s Revamped Signing Flow  
-date: 2024-12-02  
+date: 2025-03-20  
 toc: false  
 tags:  
 summary: Created a GIF-based inline visual guide to introduce users to jSign’s updated signing process  
