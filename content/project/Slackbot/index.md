@@ -1,6 +1,6 @@
 ---
 title: Designing a Slackbot for Internal Whatfix Feedback Collection  
-date: 2025-12-02  
+date: 2025-08-29  
 toc: false  
 tags:  
 summary: Planned a Slackbot to streamline incoming feedback for high-visibility Whatfix content, including sample flows and JSON structure  
