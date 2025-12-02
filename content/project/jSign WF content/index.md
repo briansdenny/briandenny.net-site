@@ -12,9 +12,9 @@ To support a major shift toward embedded help content in Consensus Cloud Solutio
 ## 🧩 The Problem  
 As part of a company-wide redesign and documentation overhaul, we needed to move away from lengthy user manuals like [this original jSign documentation](https://docs.jsign.com/help/index.htm). The new goal was to create concise, embedded help content within the jSign interface using **Whatfix**, a digital adoption platform.  
 
-The original docs were comprehensive but not usable in Whatfix due to:
+The original docs were nearly exhaustive but not usable in Whatfix due to:
 - Length and complexity
-- No support for tables, images, or interlinking between help articles
+- Agnostic to account type and user role
 - An entirely different writing style and structure
 
 ## 💡 My Solution  
@@ -23,18 +23,17 @@ I organized and led our first teamwide microcontent authoring initiative:
 - Identified **core user tasks** in jSign and created an article topic list
 - Created and distributed **microcontent writing guidelines** to ensure consistency and fit for Whatfix
 - Led **peer review sessions** to align style and structure across the team
-- Created Whatfix **display rules and widgets** to house and trigger articles contextually in-app
+- Created Whatfix **display rules and widgets** to house and trigger content contextually in-app
 - Finalized and deployed each article using Whatfix’s authoring tools and targeting logic
 
-### ✍️ Microcontent Guidelines Highlights
+### ✍️ High-Level Microcontent Guidelines Highlights
 
-- Keep writing concise — assume UI elements are partially self-explanatory  
-- No screenshots or tables (widget space constraints)  
-- No nested bullet points or internal links between Whatfix articles  
-- Include external links only (e.g. to full-length docs)  
+- Keep writing concise (assume UI elements are partially self-explanatory)  
+- Avoid screenshots, tables, or nested bullet points (widget space constraints)  
+- Include link to original articles (offer fallback for users who want it)  
 
 {{% callout note %}}  
-While Whatfix doesn’t support linking between articles, I added links to the original help documentation to aid users needing more context.  
+The writing guidelines created for this project became the foundation for future microcontet Whatfix efforts across other apps in the organization.  
 {{% /callout %}}
 
 ### 📌 Representative Content  
