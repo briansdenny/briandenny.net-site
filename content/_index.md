@@ -49,11 +49,15 @@ sections:
         
         Colleague
         > I think this is excellent feedback and the suggestions are good - relevant and actionable!
-        
-        Colleague
-        > At some point, I would also like to speak to you about possibly joining the Council. I know you are reflective enough to share good ideas.
 
-        (Haven't gotten a 2025 review yet, so excerpts are forthcoming!) 
+        {{< spoiler text="Click for excerpts from 2025 review" >}}
+        Brian consistenty produces high-quality work and manages his time effectively. His dedication, care, and initiative are evident in the work he delivers and are frequently noted and appreciated by the various teams he collaborates with. He is a dependable partner for his team members and external vendors alike. His work is organized, professional, and accurate.
+
+        Brian gets along well with coworkers and is good at working together to get things done - not an easy task for a remote worker.  
+
+        Brian demonstrates a solid ability to adapt to changing situations with resourcefulness and creativity. Furthermore, Brian has shown adaptability in the face of shifting team resources. This flexibility and openness to change are valuable assets to the team.
+
+        {{< /spoiler >}}
 
         {{< spoiler text="Click for excerpts from 2024 review" >}}
         Put bluntly, Brian rocked my expectations for this first half of 2024. Under his guidance we were able to:
